@@ -1,0 +1,3331 @@
+{
+  "templates": [],
+  "mods": {
+    "filter": {
+      "tItemType": "nt_filter",
+      "filterItems": [
+        {
+          "name": "category",
+          "unfoldRow": "-1",
+          "title": "Category",
+          "urlKey": "category",
+          "hidden": false,
+          "locked": false,
+          "type": "category",
+          "uniqueName": "category",
+          "value": "screw-nut-drivers",
+          "displayValue": "Screw & Nut Drivers",
+          "options": [
+            {
+              "url": "/accessories-fashion/?q=camera",
+              "title": "Fashion Mobile Accessories",
+              "value": "accessories-fashion"
+            },
+            {
+              "url": "/measuring-levelling/?q=camera",
+              "title": "Measuring & Levelling",
+              "value": "measuring-levelling"
+            },
+            {
+              "url": "/mobile-surface-screen-protectors/?q=camera",
+              "title": "Phone Screen Protectors",
+              "value": "mobile-surface-screen-protectors"
+            },
+            {
+              "url": "/mobile-cases-covers/?q=camera",
+              "title": "Mobile Phone Cases",
+              "value": "mobile-cases-covers"
+            },
+            {
+              "url": "/phone-camera-flash-lights/?q=camera",
+              "title": "Phone Camera Flash Lights",
+              "value": "phone-camera-flash-lights"
+            },
+            {
+              "url": "/sport-action-camera-mounts/?q=camera",
+              "title": "Mounts",
+              "value": "sport-action-camera-mounts"
+            },
+            {
+              "url": "/lens-caps/?q=camera",
+              "title": "Lens Caps",
+              "value": "lens-caps"
+            },
+            {
+              "url": "/camera-screen-guards/?q=camera",
+              "title": "Camera Screen Protector",
+              "value": "camera-screen-guards"
+            },
+            {
+              "url": "/selfie-sticks/?q=camera",
+              "title": "Selfie Sticks",
+              "value": "selfie-sticks"
+            },
+            {
+              "url": "/battery-chargers/?q=camera",
+              "title": "Battery Chargers",
+              "value": "battery-chargers"
+            },
+            {
+              "url": "/security-surveillance/?q=camera",
+              "title": "IP Security Cameras",
+              "value": "security-surveillance"
+            },
+            {
+              "url": "/wireless-speakers/?q=camera",
+              "title": "Phone Docks & Stands",
+              "value": "wireless-speakers"
+            },
+            {
+              "url": "/smart-watches/?q=camera",
+              "title": "SmartWatches",
+              "value": "smart-watches"
+            },
+            {
+              "url": "/phone-micro-sd-cards/?q=camera",
+              "title": "Micro SD Cards",
+              "value": "phone-micro-sd-cards"
+            },
+            {
+              "url": "/camera-batteries/?q=camera",
+              "title": "Camera Batteries",
+              "value": "camera-batteries"
+            },
+            {
+              "url": "/screw-nut-drivers/?q=camera",
+              "title": "Screw & Nut Drivers",
+              "value": "screw-nut-drivers"
+            },
+            {
+              "url": "/portable-audio-microphones/?q=camera",
+              "title": "Microphones",
+              "value": "portable-audio-microphones"
+            },
+            {
+              "url": "/map-holders/?q=camera",
+              "title": "Mount Holders",
+              "value": "map-holders"
+            },
+            {
+              "url": "/camera-tripods/?q=camera",
+              "title": "Tripods",
+              "value": "camera-tripods"
+            },
+            {
+              "url": "/cctv-cameras/?q=camera",
+              "title": "CCTV Security Cameras",
+              "value": "cctv-cameras"
+            }
+          ]
+        },
+        {
+          "name": "brand",
+          "unfoldRow": "-1",
+          "title": "Brand",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "brand",
+          "uniqueName": "20000",
+          "options": [
+            {
+              "title": "Hontinga",
+              "value": ""
+            },
+            {
+              "title": "Lereach",
+              "value": "lereach-123915691"
+            },
+            {
+              "title": "UCUC",
+              "value": ""
+            },
+            {
+              "title": "Ezviz",
+              "value": "ezviz"
+            },
+            {
+              "title": "FELMYST",
+              "value": ""
+            },
+            {
+              "title": "PULUZ",
+              "value": "puluz"
+            },
+            {
+              "title": "lthmy",
+              "value": ""
+            },
+            {
+              "title": "Tiandy",
+              "value": ""
+            },
+            {
+              "title": "HIKVISION",
+              "value": "hikvision"
+            },
+            {
+              "title": "hoco",
+              "value": "hoco"
+            },
+            {
+              "title": "BLES",
+              "value": "bles"
+            },
+            {
+              "title": "GoPro",
+              "value": "gopro"
+            },
+            {
+              "title": "UNIVIEW",
+              "value": "uniview"
+            },
+            {
+              "title": "Bushnell",
+              "value": "bushnell"
+            },
+            {
+              "title": "ESR",
+              "value": "esr"
+            },
+            {
+              "title": "OPPO",
+              "value": "oppo"
+            },
+            {
+              "title": "ZHIYUN",
+              "value": "zhiyun"
+            },
+            {
+              "title": "LENUO",
+              "value": "lenuo"
+            },
+            {
+              "title": "Leweisi",
+              "value": ""
+            },
+            {
+              "title": "Insta360",
+              "value": "insta360"
+            },
+            {
+              "title": "SanDisk",
+              "value": "sandisk"
+            },
+            {
+              "title": "Canon",
+              "value": "canon"
+            },
+            {
+              "title": "Lenovo",
+              "value": "lenovo"
+            },
+            {
+              "title": "Digicom",
+              "value": "digicom"
+            },
+            {
+              "title": "TVT",
+              "value": ""
+            },
+            {
+              "title": "CP Plus",
+              "value": "cp-plus"
+            },
+            {
+              "title": "Dahua Technology",
+              "value": "dahua-technology"
+            },
+            {
+              "title": "Chengji Toys",
+              "value": "chengji-toys-124708846"
+            }
+          ]
+        },
+        {
+          "name": "service",
+          "unfoldRow": "4",
+          "title": "Service & Promotion",
+          "urlKey": "service",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "service",
+          "options": [
+            {
+              "title": "Mall",
+              "value": "mall",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Best Price Guaranteed",
+              "value": "BPG",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Free Delivery",
+              "value": "Free_Delivery",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Voucher Max",
+              "value": "Voucher_Max",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Rebuilding this Dashain",
+              "value": "PayDay_Campaign",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": " Buy More Save More",
+              "value": "bundleSave",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Gems",
+              "value": "coins",
+              "activeIcon": "",
+              "normalIcon": ""
+            }
+          ]
+        },
+        {
+          "name": "location",
+          "unfoldRow": "3",
+          "title": "Shipped From",
+          "urlKey": "location",
+          "hidden": false,
+          "locked": false,
+          "type": "location",
+          "uniqueName": "location",
+          "value": [],
+          "options": [
+            {
+              "title": "Bagmati Province",
+              "value": "Bagmati Province"
+            },
+            {
+              "title": "Madhesh Province",
+              "value": "Madhesh Province"
+            },
+            {
+              "title": "Lumbini Province",
+              "value": "Lumbini Province"
+            },
+            {
+              "title": "Koshi Province",
+              "value": "Koshi Province"
+            },
+            {
+              "title": "Gandaki Province",
+              "value": "Gandaki Province"
+            },
+            {
+              "title": "Overseas",
+              "value": "Overseas"
+            },
+            {
+              "title": "Local",
+              "value": "Local"
+            }
+          ]
+        },
+        {
+          "showMin": "Min",
+          "showMax": "Max",
+          "name": "price",
+          "unfoldRow": "2",
+          "title": "Price",
+          "urlKey": "price",
+          "hidden": false,
+          "locked": false,
+          "type": "price",
+          "uniqueName": "price"
+        },
+        {
+          "name": "rating",
+          "unfoldRow": "2",
+          "title": "Rating",
+          "urlKey": "rating",
+          "hidden": false,
+          "locked": false,
+          "type": "rating",
+          "uniqueName": "rating",
+          "value": "0"
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Delivery Option Standard",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "11",
+          "options": [
+            {
+              "title": "Yes",
+              "value": "11:2110"
+            },
+            {
+              "title": "No",
+              "value": "11:2401"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Warranty Type",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "7",
+          "options": [
+            {
+              "title": "Seller Warranty",
+              "value": "7:123708611"
+            },
+            {
+              "title": "No Warranty",
+              "value": "7:4498"
+            },
+            {
+              "title": "Brand Warranty",
+              "value": "7:202300"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Warranty Period",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "8",
+          "options": [
+            {
+              "title": "26",
+              "value": "8:2408"
+            },
+            {
+              "title": "42",
+              "value": "8:2409"
+            },
+            {
+              "title": "112",
+              "value": "8:7"
+            },
+            {
+              "title": "46",
+              "value": "8:2410"
+            },
+            {
+              "title": "28",
+              "value": "8:2411"
+            },
+            {
+              "title": "44",
+              "value": "8:2419"
+            },
+            {
+              "title": "1 Year",
+              "value": "8:4447"
+            },
+            {
+              "title": "40",
+              "value": "8:2420"
+            },
+            {
+              "title": "1",
+              "value": "8:3918"
+            },
+            {
+              "title": "6 Months",
+              "value": "8:4456"
+            },
+            {
+              "title": "38",
+              "value": "8:2426"
+            },
+            {
+              "title": "Life Time Warranty",
+              "value": "8:4502"
+            },
+            {
+              "title": "36",
+              "value": "8:2427"
+            },
+            {
+              "title": "34",
+              "value": "8:2425"
+            },
+            {
+              "title": "30",
+              "value": "8:2428"
+            },
+            {
+              "title": "1 Month",
+              "value": "8:4463"
+            },
+            {
+              "title": "32",
+              "value": "8:2433"
+            },
+            {
+              "title": "37",
+              "value": "8:2450"
+            },
+            {
+              "title": "2 Years",
+              "value": "8:4446"
+            },
+            {
+              "title": "3 Months",
+              "value": "8:4462"
+            },
+            {
+              "title": "2 Months",
+              "value": "8:4461"
+            },
+            {
+              "title": "27",
+              "value": "8:2453"
+            },
+            {
+              "title": "5 Years",
+              "value": "8:4454"
+            },
+            {
+              "title": "25",
+              "value": "8:2452"
+            },
+            {
+              "title": "24",
+              "value": "8:2451"
+            },
+            {
+              "title": "11",
+              "value": "8:2493"
+            },
+            {
+              "title": "39",
+              "value": "8:2449"
+            },
+            {
+              "title": "7",
+              "value": "8:2503"
+            },
+            {
+              "title": "13",
+              "value": "8:2489"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Color family",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "30129",
+          "options": [
+            {
+              "title": "Black",
+              "value": "30129:3731"
+            },
+            {
+              "title": "Clear",
+              "value": "30129:3750"
+            },
+            {
+              "title": "White",
+              "value": "30129:3743"
+            },
+            {
+              "title": "Multicolor",
+              "value": "30129:3759"
+            },
+            {
+              "title": "Blue",
+              "value": "30129:3732"
+            },
+            {
+              "title": "Red",
+              "value": "30129:1577"
+            },
+            {
+              "title": "Green",
+              "value": "30129:3736"
+            },
+            {
+              "title": "Pink",
+              "value": "30129:3739"
+            },
+            {
+              "title": "Purple",
+              "value": "30129:3740"
+            },
+            {
+              "title": "Silver",
+              "value": "30129:3741"
+            },
+            {
+              "title": "Orange",
+              "value": "30129:3738"
+            },
+            {
+              "title": "Grey",
+              "value": "30129:3735"
+            },
+            {
+              "title": "Gold",
+              "value": "30129:3734"
+            },
+            {
+              "title": "Yellow",
+              "value": "30129:3744"
+            },
+            {
+              "title": "Brown",
+              "value": "30129:3733"
+            },
+            {
+              "title": "Sand",
+              "value": "30129:103073"
+            },
+            {
+              "title": "Cyan",
+              "value": "30129:13987"
+            },
+            {
+              "title": "Multi",
+              "value": "30129:19454"
+            },
+            {
+              "title": "Neutral",
+              "value": "30129:12645"
+            },
+            {
+              "title": "Mint",
+              "value": "30129:23347"
+            },
+            {
+              "title": "Dark blue",
+              "value": "30129:3775"
+            },
+            {
+              "title": "Navy Blue",
+              "value": "30129:3785"
+            },
+            {
+              "title": "Beige",
+              "value": "30129:3737"
+            },
+            {
+              "title": "Rose Gold",
+              "value": "30129:21772"
+            },
+            {
+              "title": "Light green",
+              "value": "30129:3790"
+            },
+            {
+              "title": "Neo Bright",
+              "value": "30129:147420"
+            },
+            {
+              "title": "Army Green",
+              "value": "30129:3780"
+            },
+            {
+              "title": "Champagne",
+              "value": "30129:3781"
+            }
+          ]
+        }
+      ],
+      "filteredQuatity": "130",
+      "filteredDoneText": "Product",
+      "title": "Search Filter",
+      "pos": 0
+    },
+    "listItems": [
+      {
+        "name": "Uonevic Camera, Notebook 24-in-1 Precision Screwdriver Set, Mini Portable Repair High Quality Kit for Computers, Mobile Phones, Glasses, Game Consoles, Watches",
+        "nid": "418816119",
+        "itemId": "418816119",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/7fe2781b405e1312d1b17818856876bf.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,593",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418816119_NP-1811512582",
+        "skuId": "1811512582",
+        "sku": "418816119_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1593",
+        "inStock": true,
+        "originalPrice": "1911",
+        "clickTrace": "query:camera;nid:418816119;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418816119_NP;price:1593;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:0;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418816119;sku_id:1811512582;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418816119_NP-1811512582"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7fe2781b405e1312d1b17818856876bf.png&src=srp_findsimilar&item_id=418816119&sku_id=1811512582&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1593.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/24-1-high-quality-i418816119.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811512582%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A159300%3BdisplayPrice%3A159300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1593&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418816119%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418816119_NP%253Bprice%253A1593%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418816119%253Bsku_id%253A1811512582%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Ranggense Kit for repair watches, cameras, screwdriver set 1 in 24 precision Luxury in, laptop mobile phone, glasses, game console, mini carry",
+        "nid": "456595956",
+        "itemId": "456595956",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/78bd6f96b21eed7268fc408b63baac55.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,448",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Ranggense",
+        "sellerId": "900271664484",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "456595956_NP-2026780024",
+        "skuId": "2026780024",
+        "sku": "456595956_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1448",
+        "inStock": true,
+        "originalPrice": "1738",
+        "clickTrace": "query:camera;nid:456595956;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:456595956_NP;price:1448;client:desktop;supplier_id:900271664484;biz_source:h5_unknow;slot:1;utlog_bucket_id:470687;asc_category_id:10000499;item_id:456595956;sku_id:2026780024;shop_id:186970;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "456595956_NP-2026780024"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F78bd6f96b21eed7268fc408b63baac55.png&src=srp_findsimilar&item_id=456595956&sku_id=2026780024&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1448.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/1-24-fifty-percent-discount-i456595956.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2026780024%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A144800%3BdisplayPrice%3A144800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1448&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A456595956%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A456595956_NP%253Bprice%253A1448%253Bclient%253Adesktop%253Bsupplier_id%253A900271664484%253Bbiz_source%253Ah5_unknow%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A456595956%253Bsku_id%253A2026780024%253Bshop_id%253A186970%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Functional toolsHandmade laptops, mobile phones, watches, Yindon 8-in-1 Fifty percent discount screwdriver sets, cameras, glasses repair tool sets, and more",
+        "nid": "418009046",
+        "itemId": "418009046",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/d0ae7a9258f53e9918351ce9ae2cb8bb.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,687",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "LIGE smart watch",
+        "sellerId": "900233344897",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418009046_NP-1804222657",
+        "skuId": "1804222657",
+        "sku": "418009046_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1687",
+        "inStock": true,
+        "originalPrice": "2025",
+        "clickTrace": "query:camera;nid:418009046;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418009046_NP;price:1687;client:desktop;supplier_id:900233344897;biz_source:h5_unknow;slot:2;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418009046;sku_id:1804222657;shop_id:144632;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418009046_NP-1804222657"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fd0ae7a9258f53e9918351ce9ae2cb8bb.jpg&src=srp_findsimilar&item_id=418009046&sku_id=1804222657&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1687.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-fifty-percent-discount-i418009046.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1804222657%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A168700%3BdisplayPrice%3A168700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1687&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418009046%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418009046_NP%253Bprice%253A1687%253Bclient%253Adesktop%253Bsupplier_id%253A900233344897%253Bbiz_source%253Ah5_unknow%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418009046%253Bsku_id%253A1804222657%253Bshop_id%253A144632%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Functional tools, handmade camera, glasses, dimensions, 8-in-1 Yindon screwdriver Sales promotion set, mobile phone, watch, laptop, repair tool set for multiple sets",
+        "nid": "446909295",
+        "itemId": "446909295",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/5d692d927f17fd6e554fca062881b438.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,265",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446909295_NP-1954306868",
+        "skuId": "1954306868",
+        "sku": "446909295_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1265",
+        "inStock": true,
+        "originalPrice": "1518",
+        "clickTrace": "query:camera;nid:446909295;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446909295_NP;price:1265;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:3;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446909295;sku_id:1954306868;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446909295_NP-1954306868"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F5d692d927f17fd6e554fca062881b438.jpg&src=srp_findsimilar&item_id=446909295&sku_id=1954306868&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1265.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-sales-promotion-i446909295.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1954306868%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A126500%3BdisplayPrice%3A126500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1265&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446909295%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446909295_NP%253Bprice%253A1265%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446909295%253Bsku_id%253A1954306868%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Tools, cameras, glasses, laptops, mobile phones, watches, clubs, Luxury screwdriver sets, 8-in-1 repair tool sets, multi-tool hands",
+        "nid": "417999707",
+        "itemId": "417999707",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/239fae3d1789e9acd6ebe9c11a66bf7f.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,687",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "LIGE smart watch",
+        "sellerId": "900233344897",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "417999707_NP-1804305953",
+        "skuId": "1804305953",
+        "sku": "417999707_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1687",
+        "inStock": true,
+        "originalPrice": "2025",
+        "clickTrace": "query:camera;nid:417999707;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:417999707_NP;price:1687;client:desktop;supplier_id:900233344897;biz_source:h5_unknow;slot:4;utlog_bucket_id:470687;asc_category_id:10000499;item_id:417999707;sku_id:1804305953;shop_id:144632;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "417999707_NP-1804305953"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F239fae3d1789e9acd6ebe9c11a66bf7f.png&src=srp_findsimilar&item_id=417999707&sku_id=1804305953&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1687.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/2025-8-1-i417999707.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1804305953%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A168700%3BdisplayPrice%3A168700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1687&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A417999707%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A417999707_NP%253Bprice%253A1687%253Bclient%253Adesktop%253Bsupplier_id%253A900233344897%253Bbiz_source%253Ah5_unknow%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A417999707%253Bsku_id%253A1804305953%253Bshop_id%253A144632%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "NEW 【Innovative design】5n0 868 437a 1t0 858 547 Lane Assist Lane Keeping Camera Cover Support For Cc Passat B7 Sharan Tiguan Touran 5n0 868 437 A",
+        "nid": "446953460",
+        "itemId": "446953460",
+        "icons": [],
+        "image": "https://laz-img-sg.alicdn.com/p/5f5e8cd9ba36f2bc0929685d7c6dcba9.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,362",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Yingju",
+        "sellerId": "900285488803",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446953460_NP-1954876632",
+        "skuId": "1954876632",
+        "sku": "446953460_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1362",
+        "inStock": true,
+        "originalPrice": "1634",
+        "clickTrace": "query:camera;nid:446953460;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446953460_NP;price:1362;client:desktop;supplier_id:900285488803;biz_source:h5_unknow;slot:5;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446953460;sku_id:1954876632;shop_id:202590;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446953460_NP-1954876632"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Flaz-img-sg.alicdn.com%2Fp%2F5f5e8cd9ba36f2bc0929685d7c6dcba9.jpg&src=srp_findsimilar&item_id=446953460&sku_id=1954876632&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1362.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/50-868-437-1-0-858-547-7-50-868-437-i446953460.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1954876632%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A136200%3BdisplayPrice%3A136200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1362&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446953460%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446953460_NP%253Bprice%253A1362%253Bclient%253Adesktop%253Bsupplier_id%253A900285488803%253Bbiz_source%253Ah5_unknow%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446953460%253Bsku_id%253A1954876632%253Bshop_id%253A202590%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Withoutyou ToolsHand ToolsMultifunction Repair Glasses, Laptops, 8-in-1 Yindon New Screwdriver Sets, Mobile Phones, Watches, Cameras, Tool Sets",
+        "nid": "491183183",
+        "itemId": "491183183",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/9b990dbaf6d51085973df119db4390fd.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,443",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Jinxiangyue",
+        "sellerId": "900283920405",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "491183183_NP-2203729773",
+        "skuId": "2203729773",
+        "sku": "491183183_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1443",
+        "inStock": true,
+        "originalPrice": "1732",
+        "clickTrace": "query:camera;nid:491183183;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:491183183_NP;price:1443;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:6;utlog_bucket_id:470687;asc_category_id:10000499;item_id:491183183;sku_id:2203729773;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "491183183_NP-2203729773"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9b990dbaf6d51085973df119db4390fd.jpg&src=srp_findsimilar&item_id=491183183&sku_id=2203729773&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1443.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-i491183183.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2203729773%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A144300%3BdisplayPrice%3A144300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1443&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A491183183%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A491183183_NP%253Bprice%253A1443%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A491183183%253Bsku_id%253A2203729773%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Withoutyou ToolsMulti-function, camera, mobile phone, screwdriver 1-in-8 Original Yindon set, watch, laptop, glasses repair tool set, tool hand",
+        "nid": "477927934",
+        "itemId": "477927934",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/9b990dbaf6d51085973df119db4390fd.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,524",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Shunqingping",
+        "sellerId": "900284192347",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "477927934_NP-2130616258",
+        "skuId": "2130616258",
+        "sku": "477927934_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1524",
+        "inStock": true,
+        "originalPrice": "1829",
+        "clickTrace": "query:camera;nid:477927934;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:477927934_NP;price:1524;client:desktop;supplier_id:900284192347;biz_source:h5_unknow;slot:7;utlog_bucket_id:470687;asc_category_id:10000499;item_id:477927934;sku_id:2130616258;shop_id:201042;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "477927934_NP-2130616258"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9b990dbaf6d51085973df119db4390fd.jpg&src=srp_findsimilar&item_id=477927934&sku_id=2130616258&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1524.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/1-8-i477927934.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2130616258%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A152400%3BdisplayPrice%3A152400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1524&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A477927934%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A477927934_NP%253Bprice%253A1524%253Bclient%253Adesktop%253Bsupplier_id%253A900284192347%253Bbiz_source%253Ah5_unknow%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A477927934%253Bsku_id%253A2130616258%253Bshop_id%253A201042%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Zheng Tools, glasses, laptops, mobile phones, 81 Yindon screwdriver 2025 New sets, watches, cameras, repair sets, multi-tool hand tools",
+        "nid": "491115903",
+        "itemId": "491115903",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/ad274d6d3e6b198e1b5ec5fc35ffe759.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,914",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Jinxiangyue",
+        "sellerId": "900283920405",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "491115903_NP-2203694996",
+        "skuId": "2203694996",
+        "sku": "491115903_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1914",
+        "inStock": true,
+        "originalPrice": "2297",
+        "clickTrace": "query:camera;nid:491115903;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:491115903_NP;price:1914;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:8;utlog_bucket_id:470687;asc_category_id:10000499;item_id:491115903;sku_id:2203694996;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "491115903_NP-2203694996"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fad274d6d3e6b198e1b5ec5fc35ffe759.jpg&src=srp_findsimilar&item_id=491115903&sku_id=2203694996&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1914.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/81-2025-i491115903.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2203694996%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A191400%3BdisplayPrice%3A191400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1914&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A491115903%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A491115903_NP%253Bprice%253A1914%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A491115903%253Bsku_id%253A2203694996%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Laptop, Yindon 8-in-1 Screwdriver Set Mobile Phone, Watch, 2025 Camera, Glasses Repair Tool Set Multi-Tool Hand Tools",
+        "nid": "446885099",
+        "itemId": "446885099",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/70d6c43b52bbc796bcf0a9578fe1b754.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,253",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446885099_NP-1954075364",
+        "skuId": "1954075364",
+        "sku": "446885099_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1253",
+        "inStock": true,
+        "originalPrice": "1503",
+        "clickTrace": "query:camera;nid:446885099;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446885099_NP;price:1253;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:9;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446885099;sku_id:1954075364;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446885099_NP-1954075364"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F70d6c43b52bbc796bcf0a9578fe1b754.png&src=srp_findsimilar&item_id=446885099&sku_id=1954075364&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1253.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-hot-selling-i446885099.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1954075364%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A125300%3BdisplayPrice%3A125300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1253&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446885099%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446885099_NP%253Bprice%253A1253%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446885099%253Bsku_id%253A1954075364%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Withoutyou ToolsHand ToolsMultifunction Repair Glasses, Laptops, 8-in-1 Yindon New Screwdriver Sets, Mobile Phones, Watches, Cameras, Tool Sets",
+        "nid": "477918896",
+        "itemId": "477918896",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/9b990dbaf6d51085973df119db4390fd.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,481",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Shunqingping",
+        "sellerId": "900284192347",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "477918896_NP-2130608402",
+        "skuId": "2130608402",
+        "sku": "477918896_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1481",
+        "inStock": true,
+        "originalPrice": "1777",
+        "clickTrace": "query:camera;nid:477918896;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:477918896_NP;price:1481;client:desktop;supplier_id:900284192347;biz_source:h5_unknow;slot:10;utlog_bucket_id:470687;asc_category_id:10000499;item_id:477918896;sku_id:2130608402;shop_id:201042;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "477918896_NP-2130608402"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9b990dbaf6d51085973df119db4390fd.jpg&src=srp_findsimilar&item_id=477918896&sku_id=2130608402&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1481.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-i477918896.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2130608402%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A148100%3BdisplayPrice%3A148100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1481&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A477918896%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A477918896_NP%253Bprice%253A1481%253Bclient%253Adesktop%253Bsupplier_id%253A900284192347%253Bbiz_source%253Ah5_unknow%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A477918896%253Bsku_id%253A2130608402%253Bshop_id%253A201042%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Withoutyou Tool Hand SetTool Repair Glasses, Watches, Mobile Phone 2025 New SetYindon 8-in-1 Screwdriver, Laptop Camera, Multi-Tool",
+        "nid": "491111959",
+        "itemId": "491111959",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/2db41fb0fde743da3cfb5cefeb2306a5.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,473",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Jinxiangyue",
+        "sellerId": "900283920405",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "491111959_NP-2203750024",
+        "skuId": "2203750024",
+        "sku": "491111959_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1473",
+        "inStock": true,
+        "originalPrice": "1768",
+        "clickTrace": "query:camera;nid:491111959;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:491111959_NP;price:1473;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:11;utlog_bucket_id:470687;asc_category_id:10000499;item_id:491111959;sku_id:2203750024;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "491111959_NP-2203750024"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2db41fb0fde743da3cfb5cefeb2306a5.png&src=srp_findsimilar&item_id=491111959&sku_id=2203750024&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1473.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/2025-8-1-i491111959.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2203750024%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A147300%3BdisplayPrice%3A147300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1473&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A491111959%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A491111959_NP%253Bprice%253A1473%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A491111959%253Bsku_id%253A2203750024%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Handmade cameras, glasses, laptops, mobile phones, watches, 8-in-1 Portable Yindon screwdriver sets, decoration tool sets and more",
+        "nid": "417959951",
+        "itemId": "417959951",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/d0ae7a9258f53e9918351ce9ae2cb8bb.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,635",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "LIGE smart watch",
+        "sellerId": "900233344897",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "417959951_NP-1804176242",
+        "skuId": "1804176242",
+        "sku": "417959951_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1635",
+        "inStock": true,
+        "originalPrice": "1962",
+        "clickTrace": "query:camera;nid:417959951;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:417959951_NP;price:1635;client:desktop;supplier_id:900233344897;biz_source:h5_unknow;slot:12;utlog_bucket_id:470687;asc_category_id:10000499;item_id:417959951;sku_id:1804176242;shop_id:144632;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "417959951_NP-1804176242"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fd0ae7a9258f53e9918351ce9ae2cb8bb.jpg&src=srp_findsimilar&item_id=417959951&sku_id=1804176242&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1635.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/portable-i417959951.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1804176242%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A163500%3BdisplayPrice%3A163500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1635&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A417959951%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A417959951_NP%253Bprice%253A1635%253Bclient%253Adesktop%253Bsupplier_id%253A900233344897%253Bbiz_source%253Ah5_unknow%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A417959951%253Bsku_id%253A1804176242%253Bshop_id%253A144632%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Tools Multi-Tool Hand 8-in-1 Torx Screwdriver Set Phone, Bargain price Watch, Laptop, Camera, Glasses Repair Tool Set",
+        "nid": "446688025",
+        "itemId": "446688025",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/c4d0ef159b92b29c69f77ca973d98524.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,203",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446688025_NP-1953307168",
+        "skuId": "1953307168",
+        "sku": "446688025_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1203",
+        "inStock": true,
+        "originalPrice": "1444",
+        "clickTrace": "query:camera;nid:446688025;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446688025_NP;price:1203;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:13;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446688025;sku_id:1953307168;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446688025_NP-1953307168"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fc4d0ef159b92b29c69f77ca973d98524.png&src=srp_findsimilar&item_id=446688025&sku_id=1953307168&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1203.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-luxury-i446688025.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1953307168%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A120300%3BdisplayPrice%3A120300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1203&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446688025%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446688025_NP%253Bprice%253A1203%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446688025%253Bsku_id%253A1953307168%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Multi-tool hand, laptop for mobile phone, watch 8-in-1 torx Fifty percent discount screwdriver case, camera, glasses repair tool set tool",
+        "nid": "446910892",
+        "itemId": "446910892",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/239fae3d1789e9acd6ebe9c11a66bf7f.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,265",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446910892_NP-1954660833",
+        "skuId": "1954660833",
+        "sku": "446910892_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1265",
+        "inStock": true,
+        "originalPrice": "1518",
+        "clickTrace": "query:camera;nid:446910892;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446910892_NP;price:1265;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:14;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446910892;sku_id:1954660833;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446910892_NP-1954660833"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F239fae3d1789e9acd6ebe9c11a66bf7f.png&src=srp_findsimilar&item_id=446910892&sku_id=1954660833&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1265.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-original-i446910892.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1954660833%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A126500%3BdisplayPrice%3A126500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1265&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446910892%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446910892_NP%253Bprice%253A1265%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446910892%253Bsku_id%253A1954660833%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Computer, mobile phone, precision screwdriver 24-in-1 set, mini carry 【2025 Version】 repair kit for cameras, laptops, glasses, game consoles, watches",
+        "nid": "446851287",
+        "itemId": "446851287",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/ec6bf693449a0111a43d557ecfdadbc3.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,195",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "446851287_NP-1953921419",
+        "skuId": "1953921419",
+        "sku": "446851287_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1195",
+        "inStock": true,
+        "originalPrice": "1433",
+        "clickTrace": "query:camera;nid:446851287;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:446851287_NP;price:1195;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:15;utlog_bucket_id:470687;asc_category_id:10000499;item_id:446851287;sku_id:1953921419;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "446851287_NP-1953921419"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fec6bf693449a0111a43d557ecfdadbc3.png&src=srp_findsimilar&item_id=446851287&sku_id=1953921419&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1195.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/2025-version-i446851287.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1953921419%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A119500%3BdisplayPrice%3A119500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1195&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A446851287%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A446851287_NP%253Bprice%253A1195%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A446851287%253Bsku_id%253A1953921419%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Withoutyou ToolsMulti-function, camera, mobile phone, screwdriver 1-in-8 Original Yindon set, watch, laptop, glasses repair tool set, tool hand",
+        "nid": "491131591",
+        "itemId": "491131591",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/9b990dbaf6d51085973df119db4390fd.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,487",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Jinxiangyue",
+        "sellerId": "900283920405",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "491131591_NP-2203718842",
+        "skuId": "2203718842",
+        "sku": "491131591_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1487",
+        "inStock": true,
+        "originalPrice": "1784",
+        "clickTrace": "query:camera;nid:491131591;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:491131591_NP;price:1487;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:16;utlog_bucket_id:470687;asc_category_id:10000499;item_id:491131591;sku_id:2203718842;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "491131591_NP-2203718842"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9b990dbaf6d51085973df119db4390fd.jpg&src=srp_findsimilar&item_id=491131591&sku_id=2203718842&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1487.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/1-8-i491131591.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2203718842%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A148700%3BdisplayPrice%3A148700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1487&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A491131591%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A491131591_NP%253Bprice%253A1487%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A491131591%253Bsku_id%253A2203718842%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic With laptop, screwdriver set Yindon 8-in-1 mobile phone, watch, 2025 camera, glasses repair tool set multi-tool handmade",
+        "nid": "418806495",
+        "itemId": "418806495",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/5d692d927f17fd6e554fca062881b438.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,635",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418806495_NP-1811527974",
+        "skuId": "1811527974",
+        "sku": "418806495_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1635",
+        "inStock": true,
+        "originalPrice": "1962",
+        "clickTrace": "query:camera;nid:418806495;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418806495_NP;price:1635;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:17;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418806495;sku_id:1811527974;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418806495_NP-1811527974"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F5d692d927f17fd6e554fca062881b438.jpg&src=srp_findsimilar&item_id=418806495&sku_id=1811527974&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1635.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-2025-i418806495.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811527974%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A163500%3BdisplayPrice%3A163500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1635&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418806495%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418806495_NP%253Bprice%253A1635%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418806495%253Bsku_id%253A1811527974%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Camera, Notebook Precision Screwdriver 24-in-1 Set, Mini Portable Repair Luxury Kit for Computers, Mobile Phones, Glasses, Game Consoles, Watches",
+        "nid": "417981118",
+        "itemId": "417981118",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/7fe2781b405e1312d1b17818856876bf.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,593",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "LIGE smart watch",
+        "sellerId": "900233344897",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "417981118_NP-1804122332",
+        "skuId": "1804122332",
+        "sku": "417981118_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1593",
+        "inStock": true,
+        "originalPrice": "1911",
+        "clickTrace": "query:camera;nid:417981118;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:417981118_NP;price:1593;client:desktop;supplier_id:900233344897;biz_source:h5_unknow;slot:18;utlog_bucket_id:470687;asc_category_id:10000499;item_id:417981118;sku_id:1804122332;shop_id:144632;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "417981118_NP-1804122332"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7fe2781b405e1312d1b17818856876bf.png&src=srp_findsimilar&item_id=417981118&sku_id=1804122332&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1593.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/24-1-luxury-i417981118.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1804122332%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A159300%3BdisplayPrice%3A159300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1593&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A417981118%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A417981118_NP%253Bprice%253A1593%253Bclient%253Adesktop%253Bsupplier_id%253A900233344897%253Bbiz_source%253Ah5_unknow%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A417981118%253Bsku_id%253A1804122332%253Bshop_id%253A144632%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Tools multi-tool hand-mounted mobile phone, watch, plum screwdriver Fifty percent discount set 8-in-1, laptop, camera, glasses repair tool set",
+        "nid": "418790409",
+        "itemId": "418790409",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/9e40d01504250becce89351f4472a399.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,604",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418790409_NP-1811444540",
+        "skuId": "1811444540",
+        "sku": "418790409_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1604",
+        "inStock": true,
+        "originalPrice": "1925",
+        "clickTrace": "query:camera;nid:418790409;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418790409_NP;price:1604;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:19;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418790409;sku_id:1811444540;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418790409_NP-1811444540"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9e40d01504250becce89351f4472a399.png&src=srp_findsimilar&item_id=418790409&sku_id=1811444540&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1604.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/fifty-percent-discount-8-1-i418790409.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811444540%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A160400%3BdisplayPrice%3A160400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1604&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418790409%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418790409_NP%253Bprice%253A1604%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418790409%253Bsku_id%253A1811444540%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Zheng Tools, glasses, laptops, mobile phones, 81 Yindon screwdriver 2025 New sets, watches, cameras, repair sets, multi-tool hand tools",
+        "nid": "477926624",
+        "itemId": "477926624",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/ad274d6d3e6b198e1b5ec5fc35ffe759.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,952",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Shunqingping",
+        "sellerId": "900284192347",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "477926624_NP-2130553279",
+        "skuId": "2130553279",
+        "sku": "477926624_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1952",
+        "inStock": true,
+        "originalPrice": "2342",
+        "clickTrace": "query:camera;nid:477926624;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:477926624_NP;price:1952;client:desktop;supplier_id:900284192347;biz_source:h5_unknow;slot:20;utlog_bucket_id:470687;asc_category_id:10000499;item_id:477926624;sku_id:2130553279;shop_id:201042;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "477926624_NP-2130553279"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fad274d6d3e6b198e1b5ec5fc35ffe759.jpg&src=srp_findsimilar&item_id=477926624&sku_id=2130553279&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1952.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/81-2025-i477926624.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2130553279%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A195200%3BdisplayPrice%3A195200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1952&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A477926624%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A477926624_NP%253Bprice%253A1952%253Bclient%253Adesktop%253Bsupplier_id%253A900284192347%253Bbiz_source%253Ah5_unknow%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A477926624%253Bsku_id%253A2130553279%253Bshop_id%253A201042%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic With Screwdriver Set Yindon 8-in-1 Mobile Phone, Watch, Laptop, New Camera, Glasses Repair Tool Set Multi-tool Handmade",
+        "nid": "418808691",
+        "itemId": "418808691",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/d0ae7a9258f53e9918351ce9ae2cb8bb.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,687",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418808691_NP-1811597702",
+        "skuId": "1811597702",
+        "sku": "418808691_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1687",
+        "inStock": true,
+        "originalPrice": "2025",
+        "clickTrace": "query:camera;nid:418808691;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418808691_NP;price:1687;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:21;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418808691;sku_id:1811597702;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418808691_NP-1811597702"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fd0ae7a9258f53e9918351ce9ae2cb8bb.jpg&src=srp_findsimilar&item_id=418808691&sku_id=1811597702&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1687.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-new-i418808691.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811597702%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A168700%3BdisplayPrice%3A168700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1687&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418808691%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418808691_NP%253Bprice%253A1687%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418808691%253Bsku_id%253A1811597702%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic Fixture repair tool set multi Yindon 8-in-1 screwdriver set mobile phone, 2025 New watch, laptop, camera, glasses dimensional functional tools handmade",
+        "nid": "417992127",
+        "itemId": "417992127",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/a9ab8be735697ad7e3c1071100cce0d7.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,670",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "LIGE smart watch",
+        "sellerId": "900233344897",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "417992127_NP-1804164543",
+        "skuId": "1804164543",
+        "sku": "417992127_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1670",
+        "inStock": true,
+        "originalPrice": "2004",
+        "clickTrace": "query:camera;nid:417992127;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:417992127_NP;price:1670;client:desktop;supplier_id:900233344897;biz_source:h5_unknow;slot:22;utlog_bucket_id:470687;asc_category_id:10000499;item_id:417992127;sku_id:1804164543;shop_id:144632;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "417992127_NP-1804164543"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fa9ab8be735697ad7e3c1071100cce0d7.png&src=srp_findsimilar&item_id=417992127&sku_id=1804164543&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1670.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-new-style-i417992127.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1804164543%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A167000%3BdisplayPrice%3A167000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.67E%203&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A417992127%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A417992127_NP%253Bprice%253A1670%253Bclient%253Adesktop%253Bsupplier_id%253A900233344897%253Bbiz_source%253Ah5_unknow%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A417992127%253Bsku_id%253A1804164543%253Bshop_id%253A144632%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Zheng Hand Tools Set Tool Repair, Camera, Mobile Phone Screwdriver New Yindon 81 Set Watch, Laptop, Glasses Multi-Purpose Tools",
+        "nid": "491166166",
+        "itemId": "491166166",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/42453651779dff288a00dfc2e5549161.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,857",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Jinxiangyue",
+        "sellerId": "900283920405",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "491166166_NP-2203752155",
+        "skuId": "2203752155",
+        "sku": "491166166_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1857",
+        "inStock": true,
+        "originalPrice": "2228",
+        "clickTrace": "query:camera;nid:491166166;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:491166166_NP;price:1857;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:23;utlog_bucket_id:470687;asc_category_id:10000499;item_id:491166166;sku_id:2203752155;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "491166166_NP-2203752155"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F42453651779dff288a00dfc2e5549161.jpg&src=srp_findsimilar&item_id=491166166&sku_id=2203752155&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1857.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/81-i491166166.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2203752155%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A185700%3BdisplayPrice%3A185700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1857&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A491166166%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A491166166_NP%253Bprice%253A1857%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A491166166%253Bsku_id%253A2203752155%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic , Laptop 8-in-1 Torx Screwdriver Set Mobile Phone, Watch, Original Camera, Glasses Repair Tool Set Multi-Tool Hand Tools",
+        "nid": "418831458",
+        "itemId": "418831458",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/397273360ce12ebcf4497b40bfb9b4b4.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,687",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418831458_NP-1811724239",
+        "skuId": "1811724239",
+        "sku": "418831458_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1687",
+        "inStock": true,
+        "originalPrice": "2025",
+        "clickTrace": "query:camera;nid:418831458;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418831458_NP;price:1687;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:24;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418831458;sku_id:1811724239;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418831458_NP-1811724239"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F397273360ce12ebcf4497b40bfb9b4b4.png&src=srp_findsimilar&item_id=418831458&sku_id=1811724239&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1687.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/8-1-luxury-i418831458.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811724239%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A168700%3BdisplayPrice%3A168700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1687&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418831458%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418831458_NP%253Bprice%253A1687%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418831458%253Bsku_id%253A1811724239%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Uonevic With camera, glasses, laptop, mobile phone, watch, screwdriver New set 8-in-1 Yindon repair tool set multi-tool handmade",
+        "nid": "418785917",
+        "itemId": "418785917",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/a9ab8be735697ad7e3c1071100cce0d7.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,670",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Uonevic",
+        "sellerId": "900233520891",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "418785917_NP-1811558056",
+        "skuId": "1811558056",
+        "sku": "418785917_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1670",
+        "inStock": true,
+        "originalPrice": "2004",
+        "clickTrace": "query:camera;nid:418785917;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:418785917_NP;price:1670;client:desktop;supplier_id:900233520891;biz_source:h5_unknow;slot:25;utlog_bucket_id:470687;asc_category_id:10000499;item_id:418785917;sku_id:1811558056;shop_id:144637;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "418785917_NP-1811558056"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fa9ab8be735697ad7e3c1071100cce0d7.png&src=srp_findsimilar&item_id=418785917&sku_id=1811558056&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1670.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/new-8-1-i418785917.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1811558056%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A167000%3BdisplayPrice%3A167000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1.67E%203&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A418785917%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A418785917_NP%253Bprice%253A1670%253Bclient%253Adesktop%253Bsupplier_id%253A900233520891%253Bbiz_source%253Ah5_unknow%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A418785917%253Bsku_id%253A1811558056%253Bshop_id%253A144637%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Renyuanfenyi Tool repair, mobile phone set 8 Yindon 1 screwdriver watch, Fashion laptop, camera, glasses tool set multi-tool hand",
+        "nid": "456590582",
+        "itemId": "456590582",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/474e17d4ea72a4ece565ca645f5891a3.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,948",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Renyuanfenyi",
+        "sellerId": "900271632634",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "456590582_NP-2026684347",
+        "skuId": "2026684347",
+        "sku": "456590582_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1948",
+        "inStock": true,
+        "originalPrice": "2143",
+        "clickTrace": "query:camera;nid:456590582;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:456590582_NP;price:1948;client:desktop;supplier_id:900271632634;biz_source:h5_unknow;slot:26;utlog_bucket_id:470687;asc_category_id:10000499;item_id:456590582;sku_id:2026684347;shop_id:186974;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "456590582_NP-2026684347"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F474e17d4ea72a4ece565ca645f5891a3.png&src=srp_findsimilar&item_id=456590582&sku_id=2026684347&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1948.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/renyuanfenyi-tool-repair-mobile-phone-set-8-yindon-1-screwdriver-watch-fashion-laptop-camera-glasses-tool-set-multi-tool-hand-i456590582.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2026684347%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A194800%3BdisplayPrice%3A194800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1948&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A456590582%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A456590582_NP%253Bprice%253A1948%253Bclient%253Adesktop%253Bsupplier_id%253A900271632634%253Bbiz_source%253Ah5_unknow%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A456590582%253Bsku_id%253A2026684347%253Bshop_id%253A186974%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Renyuan 【Essential Good Item】Car Radio Camera Parking Rear Video Rca Reverse Convert 2025 New Adapter Cable For Suzuki Vitara Escudo Jimny 2015~2019 Android Player",
+        "nid": "416549104",
+        "itemId": "416549104",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/149b741dea93ad00ea4597f936bce011.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 5,583",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Renyuanfenyi",
+        "sellerId": "900271632634",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "416549104_NP-1792357936",
+        "skuId": "1792357936",
+        "sku": "416549104_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "5583",
+        "inStock": true,
+        "originalPrice": "8374",
+        "clickTrace": "query:camera;nid:416549104;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:416549104_NP;price:5583;client:desktop;supplier_id:900271632634;biz_source:h5_unknow;slot:27;utlog_bucket_id:470687;asc_category_id:10000499;item_id:416549104;sku_id:1792357936;shop_id:186974;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "416549104_NP-1792357936"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F149b741dea93ad00ea4597f936bce011.png&src=srp_findsimilar&item_id=416549104&sku_id=1792357936&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=5583.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/2025-new-2015-2019-i416549104.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1792357936%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A558300%3BdisplayPrice%3A558300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=5583&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A416549104%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A416549104_NP%253Bprice%253A5583%253Bclient%253Adesktop%253Bsupplier_id%253A900271632634%253Bbiz_source%253Ah5_unknow%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A416549104%253Bsku_id%253A1792357936%253Bshop_id%253A186974%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Renyuanfenyi Kit repair carries mini watches, game consoles, mobile phones, cameras Luxury in the 241 precision screwdriver set, suitable for, laptop glasses, of",
+        "nid": "456584313",
+        "itemId": "456584313",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/9ba648040c46345e6ea1c4faca291418.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,544",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Renyuanfenyi",
+        "sellerId": "900271632634",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "456584313_NP-2026548709",
+        "skuId": "2026548709",
+        "sku": "456584313_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "3544",
+        "inStock": true,
+        "originalPrice": "3793",
+        "clickTrace": "query:camera;nid:456584313;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:456584313_NP;price:3544;client:desktop;supplier_id:900271632634;biz_source:h5_unknow;slot:28;utlog_bucket_id:470687;asc_category_id:10000499;item_id:456584313;sku_id:2026548709;shop_id:186974;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "456584313_NP-2026548709"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9ba648040c46345e6ea1c4faca291418.png&src=srp_findsimilar&item_id=456584313&sku_id=2026548709&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3544.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/renyuanfenyi-kit-repair-carries-mini-watches-game-consoles-mobile-phones-cameras-luxury-in-the-241-precision-screwdriver-set-suitable-for-laptop-glasses-of-i456584313.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2026548709%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A354400%3BdisplayPrice%3A354400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3544&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A456584313%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A456584313_NP%253Bprice%253A3544%253Bclient%253Adesktop%253Bsupplier_id%253A900271632634%253Bbiz_source%253Ah5_unknow%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A456584313%253Bsku_id%253A2026548709%253Bshop_id%253A186974%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Renyuan 【High-quality】Car Radio Camera Parking Rear Video Rca Reverse Convert 【2025 Version】 Adapter Cable For Suzuki Vitara Escudo Jimny 2015~2019 Android Player",
+        "nid": "416525590",
+        "itemId": "416525590",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/149b741dea93ad00ea4597f936bce011.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 5,574",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Renyuanfenyi",
+        "sellerId": "900271632634",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "416525590_NP-1792363164",
+        "skuId": "1792363164",
+        "sku": "416525590_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "5574",
+        "inStock": true,
+        "originalPrice": "8360",
+        "clickTrace": "query:camera;nid:416525590;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:416525590_NP;price:5574;client:desktop;supplier_id:900271632634;biz_source:h5_unknow;slot:29;utlog_bucket_id:470687;asc_category_id:10000499;item_id:416525590;sku_id:1792363164;shop_id:186974;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "416525590_NP-1792363164"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F149b741dea93ad00ea4597f936bce011.png&src=srp_findsimilar&item_id=416525590&sku_id=1792363164&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=5574.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/portable-2015-2019-i416525590.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1792363164%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A557400%3BdisplayPrice%3A557400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=5574&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A416525590%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A416525590_NP%253Bprice%253A5574%253Bclient%253Adesktop%253Bsupplier_id%253A900271632634%253Bbiz_source%253Ah5_unknow%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A416525590%253Bsku_id%253A1792363164%253Bshop_id%253A186974%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Renyuan 【Lrofessional service】Car Radio Camera Parking Rear Video Rca Reverse Convert 2025 New Adapter Cable For Suzuki Vitara Escudo Jimny 2015~2019 Android Player",
+        "nid": "416531834",
+        "itemId": "416531834",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/149b741dea93ad00ea4597f936bce011.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 5,557",
+        "ratingScore": "",
+        "review": "",
+        "location": "Overseas",
+        "thumbs": [],
+        "sellerName": "Renyuanfenyi",
+        "sellerId": "900271632634",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "416531834_NP-1792469729",
+        "skuId": "1792469729",
+        "sku": "416531834_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "5557",
+        "inStock": true,
+        "originalPrice": "8336",
+        "clickTrace": "query:camera;nid:416531834;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:416531834_NP;price:5557;client:desktop;supplier_id:900271632634;biz_source:h5_unknow;slot:30;utlog_bucket_id:470687;asc_category_id:10000499;item_id:416531834;sku_id:1792469729;shop_id:186974;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "416531834_NP-1792469729"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F149b741dea93ad00ea4597f936bce011.png&src=srp_findsimilar&item_id=416531834&sku_id=1792469729&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=5557.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/sales-promotion-2015-2019-i416531834.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1792469729%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A555700%3BdisplayPrice%3A555700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=5557&review=&location=Overseas&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A416531834%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A416531834_NP%253Bprice%253A5557%253Bclient%253Adesktop%253Bsupplier_id%253A900271632634%253Bbiz_source%253Ah5_unknow%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A416531834%253Bsku_id%253A1792469729%253Bshop_id%253A186974%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Multi-Function 25 in 1 Precision Screwdriver Set Repair Tool Kit Set Torque Screwdriver for Mobile Phone, for Watch, PC, Laptop, Digital Camera With Handy Leather Case",
+        "nid": "170841376",
+        "itemId": "170841376",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 2",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/fb5e0a8369af19cee35c6d128bc1b5e8.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 242",
+        "ratingScore": "4.357142857142857",
+        "review": "14",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "E Mela",
+        "sellerId": "900155733377",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "170841376_NP-1189814717",
+        "skuId": "1189814717",
+        "sku": "170841376_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "242",
+        "inStock": true,
+        "originalPrice": "600",
+        "clickTrace": "query:camera;nid:170841376;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:170841376_NP;price:242;client:desktop;supplier_id:900155733377;biz_source:h5_unknow;slot:31;utlog_bucket_id:470687;asc_category_id:10000499;item_id:170841376;sku_id:1189814717;shop_id:75482;templateInfo:-1_A3_C#1103_L#",
+        "itemSoldCntShow": "85 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "170841376_NP-1189814717"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Ffb5e0a8369af19cee35c6d128bc1b5e8.jpg&src=srp_findsimilar&item_id=170841376&sku_id=1189814717&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=242.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/multi-function-25-in-1-precision-screwdriver-set-repair-tool-kit-set-torque-screwdriver-for-mobile-phone-for-watch-pc-laptop-digital-camera-with-handy-leather-case-i170841376.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1189814717%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A24200%3BdisplayPrice%3A24200%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=4.357142857142857&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=85&price=242&review=14&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A170841376%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A170841376_NP%253Bprice%253A242%253Bclient%253Adesktop%253Bsupplier_id%253A900155733377%253Bbiz_source%253Ah5_unknow%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A170841376%253Bsku_id%253A1189814717%253Bshop_id%253A75482%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "5 In 1 Screwdrivers Set For Tablets, Camera, Watches, Smartphones, Multi-Use With 5 Bits Repair Opening Tool Kit Pentalobe Fix Screwdriver Set",
+        "nid": "153583097",
+        "itemId": "153583097",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/2f84112ac315a0110cca6053c5015b1e.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 219",
+        "ratingScore": "3.7142857142857144",
+        "review": "7",
+        "location": "Madhesh Province",
+        "thumbs": [],
+        "sellerName": "Ocean Blue Tech HUB.",
+        "sellerId": "900151146269",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "153583097_NP-1111575534",
+        "skuId": "1111575534",
+        "sku": "153583097_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "219",
+        "inStock": true,
+        "originalPrice": "350",
+        "clickTrace": "query:camera;nid:153583097;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:153583097_NP;price:219;client:desktop;supplier_id:900151146269;biz_source:h5_unknow;slot:32;utlog_bucket_id:470687;asc_category_id:10000499;item_id:153583097;sku_id:1111575534;shop_id:22028;templateInfo:-1_A3_C#1103_L#",
+        "itemSoldCntShow": "61 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "153583097_NP-1111575534"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2f84112ac315a0110cca6053c5015b1e.jpg&src=srp_findsimilar&item_id=153583097&sku_id=1111575534&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=219.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/5-in-1-screwdrivers-set-for-tablets-camera-watches-smartphones-multi-use-with-5-bits-repair-opening-tool-kit-pentalobe-fix-screwdriver-set-i153583097.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1111575534%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A21900%3BdisplayPrice%3A21900%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=3.7142857142857144&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=61&price=219&review=7&location=Madhesh%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A153583097%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A153583097_NP%253Bprice%253A219%253Bclient%253Adesktop%253Bsupplier_id%253A900151146269%253Bbiz_source%253Ah5_unknow%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A153583097%253Bsku_id%253A1111575534%253Bshop_id%253A22028%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "1pcs (+ Size )0.6*25mm Portable Slotted Pozidrive Screwdriver For Camera, Computer, Watch, Phone Repair Tools",
+        "nid": "128433101",
+        "itemId": "128433101",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/fe512317fc9ceb221b2609380d1fbd94.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 145",
+        "ratingScore": "4.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Black Eye (Raj Group)",
+        "sellerId": "900178736031",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128433101_NP-1035907308",
+        "skuId": "1035907308",
+        "sku": "128433101_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "145",
+        "inStock": true,
+        "originalPrice": "199",
+        "clickTrace": "query:camera;nid:128433101;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:128433101_NP;price:145;client:desktop;supplier_id:900178736031;biz_source:h5_unknow;slot:33;utlog_bucket_id:470687;asc_category_id:10000499;item_id:128433101;sku_id:1035907308;shop_id:109692;templateInfo:-1_A3_C#1103_L#",
+        "itemSoldCntShow": "6 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128433101_NP-1035907308"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Ffe512317fc9ceb221b2609380d1fbd94.jpg&src=srp_findsimilar&item_id=128433101&sku_id=1035907308&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=145.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/1pcs-size-0625mm-portable-slotted-pozidrive-screwdriver-for-camera-computer-watch-phone-repair-tools-i128433101.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1035907308%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A14500%3BdisplayPrice%3A14500%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=145&review=1&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A128433101%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A128433101_NP%253Bprice%253A145%253Bclient%253Adesktop%253Bsupplier_id%253A900178736031%253Bbiz_source%253Ah5_unknow%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A128433101%253Bsku_id%253A1035907308%253Bshop_id%253A109692%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "+ Size 0.6*25mm Portable Slotted Pozidrive Screwdriver For Camera, Computer, Watch, Phone Repair Tools",
+        "nid": "126241497",
+        "itemId": "126241497",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 2",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/14b82a555bc7c4616a1215cfa64b10ca.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 173",
+        "ratingScore": "2.0",
+        "review": "4",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Anylady Stores",
+        "sellerId": "900153501912",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "126241497_NP-1034220310",
+        "skuId": "1034220310",
+        "sku": "126241497_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "173",
+        "inStock": true,
+        "originalPrice": "200",
+        "clickTrace": "query:camera;nid:126241497;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:126241497_NP;price:173;client:desktop;supplier_id:900153501912;biz_source:h5_unknow;slot:34;utlog_bucket_id:470687;asc_category_id:10000499;item_id:126241497;sku_id:1034220310;shop_id:63437;templateInfo:-1_A3_C#1103_L#",
+        "itemSoldCntShow": "25 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "126241497_NP-1034220310"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F14b82a555bc7c4616a1215cfa64b10ca.jpg&src=srp_findsimilar&item_id=126241497&sku_id=1034220310&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=173.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/size-0625mm-portable-slotted-pozidrive-screwdriver-for-camera-computer-watch-phone-repair-tools-i126241497.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034220310%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A17300%3BdisplayPrice%3A17300%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=2.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=25&price=173&review=4&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A126241497%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A126241497_NP%253Bprice%253A173%253Bclient%253Adesktop%253Bsupplier_id%253A900153501912%253Bbiz_source%253Ah5_unknow%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A126241497%253Bsku_id%253A1034220310%253Bshop_id%253A63437%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "SUNSHINE SS-5117 Screwdriver Set Bits Kit 58 in 1 for Phone Mobile IPad Camera Maintenance Tools Screwdriver Set",
+        "nid": "114221880",
+        "itemId": "114221880",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 14",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/d6082796bef53b6018f432974b140b8b.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,406",
+        "ratingScore": "4.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Smart store",
+        "sellerId": "1010263",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "114221880_NP-1031023964",
+        "skuId": "1031023964",
+        "sku": "114221880_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1406",
+        "inStock": true,
+        "originalPrice": "3400",
+        "clickTrace": "query:camera;nid:114221880;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:114221880_NP;price:1406;client:desktop;supplier_id:1010263;biz_source:h5_unknow;slot:35;utlog_bucket_id:470687;asc_category_id:10000499;item_id:114221880;sku_id:1031023964;shop_id:20019;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "114221880_NP-1031023964"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fd6082796bef53b6018f432974b140b8b.png&src=srp_findsimilar&item_id=114221880&sku_id=1031023964&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1406.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/sunshine-ss-5117-screwdriver-set-bits-kit-58-in-1-for-phone-mobile-ipad-camera-maintenance-tools-screwdriver-set-i114221880.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031023964%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A140600%3BdisplayPrice%3A140600%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=1406&review=1&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A114221880%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A114221880_NP%253Bprice%253A1406%253Bclient%253Adesktop%253Bsupplier_id%253A1010263%253Bbiz_source%253Ah5_unknow%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A114221880%253Bsku_id%253A1031023964%253Bshop_id%253A20019%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "SUNSHINE SS-5117 Screwdriver Set Bits Kit 58 in 1 for Phone Mobile IPad Camera Maintenance Tools Screwdriver Set",
+        "nid": "114231122",
+        "itemId": "114231122",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 19",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/def50284257f87375337827f1bcce50b.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,890",
+        "ratingScore": "5.0",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Tools pasal",
+        "sellerId": "900152292021",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "114231122_NP-1031024965",
+        "skuId": "1031024965",
+        "sku": "114231122_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "1890",
+        "inStock": true,
+        "originalPrice": "3300",
+        "clickTrace": "query:camera;nid:114231122;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:114231122_NP;price:1890;client:desktop;supplier_id:900152292021;biz_source:h5_unknow;slot:36;utlog_bucket_id:470687;asc_category_id:10000499;item_id:114231122;sku_id:1031024965;shop_id:42825;templateInfo:-1_A3_C#1103_L#",
+        "itemSoldCntShow": "5 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "114231122_NP-1031024965"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fdef50284257f87375337827f1bcce50b.jpg&src=srp_findsimilar&item_id=114231122&sku_id=1031024965&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1890.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/sunshine-ss-5117-screwdriver-set-bits-kit-58-in-1-for-phone-mobile-ipad-camera-maintenance-tools-screwdriver-set-i114231122.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031024965%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A189000%3BdisplayPrice%3A189000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=5&price=1.89E%203&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A114231122%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A114231122_NP%253Bprice%253A1890%253Bclient%253Adesktop%253Bsupplier_id%253A900152292021%253Bbiz_source%253Ah5_unknow%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A114231122%253Bsku_id%253A1031024965%253Bshop_id%253A42825%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "SUNSHINE SS-5121 66In1 Multifunctional Screw Driver Bit for Camera Watch Glasses Phone Toy Repair Tool Precision Screwdriver Set",
+        "nid": "125805643",
+        "itemId": "125805643",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 22",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/34579bb2d8fa63a62b9bff0bd0d6660d.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,150",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Tools pasal",
+        "sellerId": "900152292021",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "125805643_NP-1034096925",
+        "skuId": "1034096925",
+        "sku": "125805643_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "2150",
+        "inStock": true,
+        "originalPrice": "3200",
+        "clickTrace": "query:camera;nid:125805643;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:125805643_NP;price:2150;client:desktop;supplier_id:900152292021;biz_source:h5_unknow;slot:37;utlog_bucket_id:470687;asc_category_id:10000499;item_id:125805643;sku_id:1034096925;shop_id:42825;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "125805643_NP-1034096925"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F34579bb2d8fa63a62b9bff0bd0d6660d.jpg&src=srp_findsimilar&item_id=125805643&sku_id=1034096925&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2150.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/sunshine-ss-5121-66in1-multifunctional-screw-driver-bit-for-camera-watch-glasses-phone-toy-repair-tool-precision-screwdriver-set-i125805643.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034096925%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A215000%3BdisplayPrice%3A215000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=2.15E%203&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A125805643%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A125805643_NP%253Bprice%253A2150%253Bclient%253Adesktop%253Bsupplier_id%253A900152292021%253Bbiz_source%253Ah5_unknow%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A125805643%253Bsku_id%253A1034096925%253Bshop_id%253A42825%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "Precision Screwdriver Set SUNSHINE SS-5121 66In1 Multifunctional Screw Driver Bit for Camera Watch Glasses Phone Toy Repair Tool",
+        "nid": "125803637",
+        "itemId": "125803637",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 22",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/34579bb2d8fa63a62b9bff0bd0d6660d.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,200",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Tools pasal",
+        "sellerId": "900152292021",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "125803637_NP-1034101513",
+        "skuId": "1034101513",
+        "sku": "125803637_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "2200",
+        "inStock": true,
+        "originalPrice": "2900",
+        "clickTrace": "query:camera;nid:125803637;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:125803637_NP;price:2200;client:desktop;supplier_id:900152292021;biz_source:h5_unknow;slot:38;utlog_bucket_id:470687;asc_category_id:10000499;item_id:125803637;sku_id:1034101513;shop_id:42825;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "125803637_NP-1034101513"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F34579bb2d8fa63a62b9bff0bd0d6660d.jpg&src=srp_findsimilar&item_id=125803637&sku_id=1034101513&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2200.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/precision-screwdriver-set-sunshine-ss-5121-66in1-multifunctional-screw-driver-bit-for-camera-watch-glasses-phone-toy-repair-tool-i125803637.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034101513%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A220000%3BdisplayPrice%3A220000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=2&price=2.2E%203&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A125803637%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A125803637_NP%253Bprice%253A2200%253Bclient%253Adesktop%253Bsupplier_id%253A900152292021%253Bbiz_source%253Ah5_unknow%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A125803637%253Bsku_id%253A1034101513%253Bshop_id%253A42825%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      },
+      {
+        "name": "SUNSHINE SS-5119 34 in 1 Multi-function S2 Alloy Steel Precision Screwdriver Set For Mobile Phones Watch Tablet PC Camera Repair",
+        "nid": "114217059",
+        "itemId": "114217059",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 21",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/a427a4c8d7e024e78ca41e61c6b55b55.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,100",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Tools pasal",
+        "sellerId": "900152292021",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "114217059_NP-1031027113",
+        "skuId": "1031027113",
+        "sku": "114217059_NP",
+        "categories": [
+          10000337,
+          10000357,
+          10000499
+        ],
+        "price": "2100",
+        "inStock": true,
+        "originalPrice": "3300",
+        "clickTrace": "query:camera;nid:114217059;src:LazadaMainSrp;rn:b2bf9a9d7c7b698eceefc7298dd802db;region:np;sku:114217059_NP;price:2100;client:desktop;supplier_id:900152292021;biz_source:h5_unknow;slot:39;utlog_bucket_id:470687;asc_category_id:10000499;item_id:114217059;sku_id:1031027113;shop_id:42825;templateInfo:-1_A3_C#1103_L#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "114217059_NP-1031027113"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fa427a4c8d7e024e78ca41e61c6b55b55.jpg&src=srp_findsimilar&item_id=114217059&sku_id=1031027113&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2100.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/sunshine-ss-5119-34-in-1-multi-function-alloy-steel-precision-screwdriver-set-for-mobile-phones-watch-tablet-pc-camera-repair-i114217059.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031027113%3Bsource%3Alazada-search-voucher%3Bsn%3Ab2bf9a9d7c7b698eceefc7298dd802db%3BoriginPrice%3A210000%3BdisplayPrice%3A210000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758779617864&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2.1E%203&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=b2bf9a9d7c7b698eceefc7298dd802db&clickTrackInfo=query%253Acamera%253Bnid%253A114217059%253Bsrc%253ALazadaMainSrp%253Brn%253Ab2bf9a9d7c7b698eceefc7298dd802db%253Bregion%253Anp%253Bsku%253A114217059_NP%253Bprice%253A2100%253Bclient%253Adesktop%253Bsupplier_id%253A900152292021%253Bbiz_source%253Ah5_unknow%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000499%253Bitem_id%253A114217059%253Bsku_id%253A1031027113%253Bshop_id%253A42825%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "url": "https://www.daraz.com.np",
+        "title": "Home"
+      },
+      {
+        "url": "/home-improvement-tools/",
+        "title": "Tools, DIY & Outdoor"
+      },
+      {
+        "url": "/handtools/",
+        "title": "Hand Tools"
+      },
+      {
+        "url": "/screw-nut-drivers/",
+        "title": "Screw & Nut Drivers"
+      },
+      {
+        "title": "Search Results"
+      }
+    ],
+    "sortBar": {
+      "tItemType": "nt_sortbar",
+      "filter": "Filter",
+      "style": "wf",
+      "sortItems": [
+        {
+          "name": "Popularity",
+          "tip": "Best Match",
+          "isActive": "true",
+          "value": "popularity",
+          "key": "sort",
+          "tabName": ""
+        },
+        {
+          "name": "Price-ASC",
+          "tip": "Price low to high",
+          "value": "priceasc",
+          "key": "sort",
+          "tabName": ""
+        },
+        {
+          "name": "Price-DESC",
+          "tip": "Price high to low",
+          "value": "pricedesc",
+          "key": "sort",
+          "tabName": ""
+        }
+      ],
+      "hiddenLayoutBtn": false,
+      "showFilterBtn": true,
+      "hasFilter": false
+    },
+    "resultTips": {
+      "tItemType": "nt_resulttips",
+      "tips": "Showing results for {$0}",
+      "keywords": [
+        {
+          "text": "camera"
+        },
+        {
+          "text": "Screw & Nut Drivers"
+        }
+      ]
+    },
+    "linksInfo": []
+  },
+  "mainInfo": {
+    "errorMsg": "",
+    "bizCode": 0,
+    "totalResults": "130",
+    "pageSize": "40",
+    "page": "1",
+    "hiddenLayoutBtn": false,
+    "layoutInfo": {
+      "listHeader": [
+        "didYouMean",
+        "campaignBanner",
+        "categoryBar",
+        "brandBar",
+        "superStore",
+        "banner",
+        "resultTips",
+        "navCategory",
+        "hotDeal",
+        "emptyResult",
+        "recQuery",
+        "emptyResultBannerTips",
+        "limitedResult",
+        "recommendTitle"
+      ],
+      "stickyHeader": [
+        "reminderBanner"
+      ],
+      "sceneHeader": [],
+      "halfStickyHeader": [
+        "sortBar",
+        "preposeFilter"
+      ],
+      "bottomHalfStickyHeader": []
+    },
+    "pageType": "searchList",
+    "gridTitleLine": "2",
+    "trackParams": {
+      "categoryAsc": "10000499",
+      "category": "10000499"
+    },
+    "userId": "",
+    "cate_id": "5880,5883,9593,10002902",
+    "hyperspaceInfo": "",
+    "currency": "Rs. ",
+    "currencyOnRight": "false",
+    "currencySpace": "false",
+    "isShowFeedbackForm": "false",
+    "showThumbs": "false",
+    "allProductURL": "/all-products/",
+    "addToCartURL": "//cart.daraz.com.np/cart/api/add",
+    "cluster": "fiber2_sg52",
+    "column": 2,
+    "bucketId": "v2",
+    "auctionType": 1,
+    "noMorePages": false,
+    "srpName": "LazadaMainSrp",
+    "params": "{\"src\":\"h5_unknow\"}",
+    "searchScenario": "keyword",
+    "hiddenShopChangeBtn": true,
+    "selectedFilters": {
+      "category": "10000499"
+    },
+    "expParams": {
+      "isBadgeAutoScroll": "0",
+      "filterLazyLoad": "0",
+      "enableShortStyle": "0",
+      "enableFeedbackAssistant": "1",
+      "disableScreenSimple": "1",
+      "enableCompactLineHeight": "1",
+      "disableFspImagePreload": "0"
+    },
+    "filterLazyLoad": false,
+    "RN": "b2bf9a9d7c7b698eceefc7298dd802db",
+    "style": "wf",
+    "lang": "en",
+    "venture": "NP",
+    "themes": [
+      {
+        "font-size": "11",
+        "labelMarginLeft": "0",
+        "bgColor": "#c27a9f",
+        "color": "#f5f3f3",
+        "key": "150318",
+        "startColor": "#c27a9f"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/7043a26ec93e68acc9da1a9f19c28f1d1730280969660.png",
+        "width": "270",
+        "labelMarginLeft": "0",
+        "key": "150565",
+        "height": "30"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/8199af120f8d2b28c22398a97eb0a5f01758108181160.png",
+        "width": "233",
+        "labelMarginLeft": "0",
+        "key": "175175",
+        "height": "87"
+      }
+    ],
+    "q": "camera",
+    "rt": {
+      "all": 165
+    },
+    "serverResponseTime": 1758779617,
+    "reqParams": "{\"src\":\"h5_unknow\",\"refer\":\"\",\"scenario\":\"keyword-dynamic\",\"ab_test\":\"BASE:0\"}",
+    "pageTitle": "Buy Screw & Nut Drivers Online at Best Price in Nepal - Daraz.com.np"
+  },
+  "seoInfo": {
+    "canonical_tag": "",
+    "category_brand": "10000499_0_0_0",
+    "description": "Nepal - Shop for Best Online at Daraz.com.np Wide Variety of Screw & Nut Drivers. Great Prices, Even Better Service.",
+    "h1": "",
+    "hreflang_data": "[{\"href\":\"https://www.daraz.pk/screw-nut-drivers/\",\"lang\":\"en-pk\"},{\"href\":\"https://www.daraz.com.bd/screw-nut-drivers/\",\"lang\":\"en-bd\"},{\"href\":\"https://www.daraz.lk/screw-nut-drivers/\",\"lang\":\"en-lk\"},{\"href\":\"https://www.daraz.com.np/screw-nut-drivers/\",\"lang\":\"en-np\"},{\"href\":\"https://www.shop.com.mm/screw-nut-drivers/\",\"lang\":\"en-mm\"},{\"href\":\"https://www.lazada.sg/shop-screw-nut-drivers/\",\"lang\":\"en-sg\"},{\"href\":\"https://www.lazada.com.my/shop-screw-nut-drivers/\",\"lang\":\"en-my\"},{\"href\":\"https://www.lazada.co.th/shop-screw-and-nut-drivers/\",\"lang\":\"th-th\"},{\"href\":\"https://www.lazada.co.id/beli-skrup-mur/\",\"lang\":\"id-id\"},{\"href\":\"https://www.lazada.vn/cac-loai-may-van-oc/\",\"lang\":\"vi-vn\"},{\"href\":\"https://www.lazada.com.ph/shop-screw-nut-drivers/\",\"lang\":\"en-ph\"}]",
+    "meta_index": "",
+    "title": "",
+    "pageTitle": "Buy Screw & Nut Drivers Online at Best Price in Nepal - Daraz.com.np",
+    "robotsContent": "index,follow",
+    "canonicalHref": "/screw-nut-drivers/",
+    "androidDeepLink": "android-app://com.lazada.android/lazada/np/page?url_key=%2Fscrew-nut-drivers%2F%3Fq%3Dcamera&utm_campaign=%2Fscrew-nut-drivers%2F%3Fq%3Dcamera&utm_medium=organic&utm_source=google_app_indexing&utm_from=search",
+    "nextHref": "/screw-nut-drivers/?page=2&q=camera",
+    "internalLink": [],
+    "itemListSchema": {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Best Selling camera Products",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Product",
+            "name": "Multi-Function 25 in 1 Precision Screwdriver Set Repair Tool Kit Set Torque Screwdriver for Mobile Phone, for Watch, PC, Laptop, Digital Camera With Handy Leather Case",
+            "image": "https://static-01.daraz.com.np/p/fb5e0a8369af19cee35c6d128bc1b5e8.jpg",
+            "url": "//www.daraz.com.np/products/multi-function-25-in-1-precision-screwdriver-set-repair-tool-kit-set-torque-screwdriver-for-mobile-phone-for-watch-pc-laptop-digital-camera-with-handy-leather-case-i170841376.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "ratingCount": 14
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Product",
+            "name": "5 In 1 Screwdrivers Set For Tablets, Camera, Watches, Smartphones, Multi-Use With 5 Bits Repair Opening Tool Kit Pentalobe Fix Screwdriver Set",
+            "image": "https://static-01.daraz.com.np/p/2f84112ac315a0110cca6053c5015b1e.jpg",
+            "url": "//www.daraz.com.np/products/5-in-1-screwdrivers-set-for-tablets-camera-watches-smartphones-multi-use-with-5-bits-repair-opening-tool-kit-pentalobe-fix-screwdriver-set-i153583097.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "ratingCount": 7
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Product",
+            "name": "1pcs (+ Size )0.6*25mm Portable Slotted Pozidrive Screwdriver For Camera, Computer, Watch, Phone Repair Tools",
+            "image": "https://static-01.daraz.com.np/p/fe512317fc9ceb221b2609380d1fbd94.jpg",
+            "url": "//www.daraz.com.np/products/1pcs-size-0625mm-portable-slotted-pozidrive-screwdriver-for-camera-computer-watch-phone-repair-tools-i128433101.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "ratingCount": 1
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Product",
+            "name": "+ Size 0.6*25mm Portable Slotted Pozidrive Screwdriver For Camera, Computer, Watch, Phone Repair Tools",
+            "image": "https://static-01.daraz.com.np/p/14b82a555bc7c4616a1215cfa64b10ca.jpg",
+            "url": "//www.daraz.com.np/products/size-0625mm-portable-slotted-pozidrive-screwdriver-for-camera-computer-watch-phone-repair-tools-i126241497.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.0",
+              "ratingCount": 4
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Product",
+            "name": "SUNSHINE SS-5117 Screwdriver Set Bits Kit 58 in 1 for Phone Mobile IPad Camera Maintenance Tools Screwdriver Set",
+            "image": "https://static-01.daraz.com.np/p/d6082796bef53b6018f432974b140b8b.png",
+            "url": "//www.daraz.com.np/products/sunshine-ss-5117-screwdriver-set-bits-kit-58-in-1-for-phone-mobile-ipad-camera-maintenance-tools-screwdriver-set-i114221880.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "ratingCount": 1
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Product",
+            "name": "SUNSHINE SS-5117 Screwdriver Set Bits Kit 58 in 1 for Phone Mobile IPad Camera Maintenance Tools Screwdriver Set",
+            "image": "https://static-01.daraz.com.np/p/def50284257f87375337827f1bcce50b.jpg",
+            "url": "//www.daraz.com.np/products/sunshine-ss-5117-screwdriver-set-bits-kit-58-in-1-for-phone-mobile-ipad-camera-maintenance-tools-screwdriver-set-i114231122.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "ratingCount": 2
+            }
+          }
+        }
+      ]
+    },
+    "breadcrumbSchema": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "item": {
+            "@id": "https://www.daraz.com.np",
+            "name": "Home"
+          },
+          "@type": "ListItem",
+          "position": 1
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Tools, DIY & Outdoor"
+          },
+          "@type": "ListItem",
+          "position": 2
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Hand Tools"
+          },
+          "@type": "ListItem",
+          "position": 3
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Screw & Nut Drivers"
+          },
+          "@type": "ListItem",
+          "position": 4
+        }
+      ]
+    },
+    "breadcrumbData": [
+      {
+        "categoryName": "Home",
+        "categoryLink": "https://www.daraz.com.np"
+      },
+      {
+        "categoryName": "Tools, DIY & Outdoor",
+        "categoryLink": "/home-improvement-tools/"
+      },
+      {
+        "categoryName": "Hand Tools",
+        "categoryLink": "/handtools/"
+      },
+      {
+        "categoryName": "Screw & Nut Drivers",
+        "categoryLink": "/screw-nut-drivers/"
+      },
+      {
+        "categoryName": "Search Results"
+      }
+    ],
+    "productSchema": {
+      "@type": "Product",
+      "@context": "https://schema.org",
+      "name": "Multi-Function 25 in 1 Precision Screwdriver Set Repair Tool Kit Set Torque Screwdriver for Mobile Phone, for Watch, PC, Laptop, Digital Camera With Handy Leather Case",
+      "image": "https://static-01.daraz.com.np/p/fb5e0a8369af19cee35c6d128bc1b5e8.jpg",
+      "sku": "170841376_NP",
+      "mpn": "1189814717",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": 14
+      },
+      "brand": {
+        "@type": "Organization",
+        "name": "No Brand"
+      }
+    }
+  }
+}

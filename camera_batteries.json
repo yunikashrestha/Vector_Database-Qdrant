@@ -1,0 +1,3694 @@
+{
+  "templates": [],
+  "mods": {
+    "filter": {
+      "tItemType": "nt_filter",
+      "filterItems": [
+        {
+          "name": "category",
+          "unfoldRow": "-1",
+          "title": "Category",
+          "urlKey": "category",
+          "hidden": false,
+          "locked": false,
+          "type": "category",
+          "uniqueName": "category",
+          "value": "camera-batteries",
+          "displayValue": "Batteries",
+          "options": [
+            {
+              "url": "/accessories-fashion/?q=camera",
+              "title": "Fashion Mobile Accessories",
+              "value": "accessories-fashion"
+            },
+            {
+              "url": "/measuring-levelling/?q=camera",
+              "title": "Measuring & Levelling",
+              "value": "measuring-levelling"
+            },
+            {
+              "url": "/mobile-surface-screen-protectors/?q=camera",
+              "title": "Phone Screen Protectors",
+              "value": "mobile-surface-screen-protectors"
+            },
+            {
+              "url": "/mobile-cases-covers/?q=camera",
+              "title": "Mobile Phone Cases",
+              "value": "mobile-cases-covers"
+            },
+            {
+              "url": "/phone-camera-flash-lights/?q=camera",
+              "title": "Phone Camera Flash Lights",
+              "value": "phone-camera-flash-lights"
+            },
+            {
+              "url": "/sport-action-camera-mounts/?q=camera",
+              "title": "Mounts",
+              "value": "sport-action-camera-mounts"
+            },
+            {
+              "url": "/lens-caps/?q=camera",
+              "title": "Lens Caps",
+              "value": "lens-caps"
+            },
+            {
+              "url": "/camera-screen-guards/?q=camera",
+              "title": "Camera Screen Protector",
+              "value": "camera-screen-guards"
+            },
+            {
+              "url": "/selfie-sticks/?q=camera",
+              "title": "Selfie Sticks",
+              "value": "selfie-sticks"
+            },
+            {
+              "url": "/battery-chargers/?q=camera",
+              "title": "Battery Chargers",
+              "value": "battery-chargers"
+            },
+            {
+              "url": "/security-surveillance/?q=camera",
+              "title": "IP Security Cameras",
+              "value": "security-surveillance"
+            },
+            {
+              "url": "/wireless-speakers/?q=camera",
+              "title": "Phone Docks & Stands",
+              "value": "wireless-speakers"
+            },
+            {
+              "url": "/smart-watches/?q=camera",
+              "title": "SmartWatches",
+              "value": "smart-watches"
+            },
+            {
+              "url": "/phone-micro-sd-cards/?q=camera",
+              "title": "Micro SD Cards",
+              "value": "phone-micro-sd-cards"
+            },
+            {
+              "url": "/camera-batteries/?q=camera",
+              "title": "Camera Batteries",
+              "value": "camera-batteries"
+            },
+            {
+              "url": "/screw-nut-drivers/?q=camera",
+              "title": "Screw & Nut Drivers",
+              "value": "screw-nut-drivers"
+            },
+            {
+              "url": "/portable-audio-microphones/?q=camera",
+              "title": "Microphones",
+              "value": "portable-audio-microphones"
+            },
+            {
+              "url": "/map-holders/?q=camera",
+              "title": "Mount Holders",
+              "value": "map-holders"
+            },
+            {
+              "url": "/camera-tripods/?q=camera",
+              "title": "Tripods",
+              "value": "camera-tripods"
+            },
+            {
+              "url": "/cctv-cameras/?q=camera",
+              "title": "CCTV Security Cameras",
+              "value": "cctv-cameras"
+            }
+          ]
+        },
+        {
+          "name": "brand",
+          "unfoldRow": "-1",
+          "title": "Brand",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "brand",
+          "uniqueName": "20000",
+          "options": [
+            {
+              "title": "Hontinga",
+              "value": ""
+            },
+            {
+              "title": "Lereach",
+              "value": "lereach-123915691"
+            },
+            {
+              "title": "UCUC",
+              "value": ""
+            },
+            {
+              "title": "Ezviz",
+              "value": "ezviz"
+            },
+            {
+              "title": "FELMYST",
+              "value": ""
+            },
+            {
+              "title": "PULUZ",
+              "value": "puluz"
+            },
+            {
+              "title": "lthmy",
+              "value": ""
+            },
+            {
+              "title": "Tiandy",
+              "value": ""
+            },
+            {
+              "title": "HIKVISION",
+              "value": "hikvision"
+            },
+            {
+              "title": "hoco",
+              "value": "hoco"
+            },
+            {
+              "title": "BLES",
+              "value": "bles"
+            },
+            {
+              "title": "GoPro",
+              "value": "gopro"
+            },
+            {
+              "title": "UNIVIEW",
+              "value": "uniview"
+            },
+            {
+              "title": "Bushnell",
+              "value": "bushnell"
+            },
+            {
+              "title": "ESR",
+              "value": "esr"
+            },
+            {
+              "title": "OPPO",
+              "value": "oppo"
+            },
+            {
+              "title": "ZHIYUN",
+              "value": "zhiyun"
+            },
+            {
+              "title": "LENUO",
+              "value": "lenuo"
+            },
+            {
+              "title": "Leweisi",
+              "value": ""
+            },
+            {
+              "title": "Insta360",
+              "value": "insta360"
+            },
+            {
+              "title": "SanDisk",
+              "value": "sandisk"
+            },
+            {
+              "title": "Canon",
+              "value": "canon"
+            },
+            {
+              "title": "Lenovo",
+              "value": "lenovo"
+            },
+            {
+              "title": "Digicom",
+              "value": "digicom"
+            },
+            {
+              "title": "TVT",
+              "value": ""
+            },
+            {
+              "title": "CP Plus",
+              "value": "cp-plus"
+            },
+            {
+              "title": "Dahua Technology",
+              "value": "dahua-technology"
+            },
+            {
+              "title": "Chengji Toys",
+              "value": "chengji-toys-124708846"
+            }
+          ]
+        },
+        {
+          "name": "service",
+          "unfoldRow": "4",
+          "title": "Service & Promotion",
+          "urlKey": "service",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "service",
+          "options": [
+            {
+              "title": "Mall",
+              "value": "mall",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Best Price Guaranteed",
+              "value": "BPG",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Free Delivery",
+              "value": "Free_Delivery",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Voucher Max",
+              "value": "Voucher_Max",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Rebuilding this Dashain",
+              "value": "PayDay_Campaign",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": " Buy More Save More",
+              "value": "bundleSave",
+              "activeIcon": "",
+              "normalIcon": ""
+            },
+            {
+              "title": "Gems",
+              "value": "coins",
+              "activeIcon": "",
+              "normalIcon": ""
+            }
+          ]
+        },
+        {
+          "name": "location",
+          "unfoldRow": "3",
+          "title": "Shipped From",
+          "urlKey": "location",
+          "hidden": false,
+          "locked": false,
+          "type": "location",
+          "uniqueName": "location",
+          "value": [],
+          "options": [
+            {
+              "title": "Bagmati Province",
+              "value": "Bagmati Province"
+            },
+            {
+              "title": "Madhesh Province",
+              "value": "Madhesh Province"
+            },
+            {
+              "title": "Lumbini Province",
+              "value": "Lumbini Province"
+            },
+            {
+              "title": "Koshi Province",
+              "value": "Koshi Province"
+            },
+            {
+              "title": "Gandaki Province",
+              "value": "Gandaki Province"
+            },
+            {
+              "title": "Overseas",
+              "value": "Overseas"
+            },
+            {
+              "title": "Local",
+              "value": "Local"
+            }
+          ]
+        },
+        {
+          "showMin": "Min",
+          "showMax": "Max",
+          "name": "price",
+          "unfoldRow": "2",
+          "title": "Price",
+          "urlKey": "price",
+          "hidden": false,
+          "locked": false,
+          "type": "price",
+          "uniqueName": "price"
+        },
+        {
+          "name": "rating",
+          "unfoldRow": "2",
+          "title": "Rating",
+          "urlKey": "rating",
+          "hidden": false,
+          "locked": false,
+          "type": "rating",
+          "uniqueName": "rating",
+          "value": "0"
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Delivery Option Standard",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "11",
+          "options": [
+            {
+              "title": "Yes",
+              "value": "11:2110"
+            },
+            {
+              "title": "No",
+              "value": "11:2401"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Warranty Type",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "7",
+          "options": [
+            {
+              "title": "Seller Warranty",
+              "value": "7:123708611"
+            },
+            {
+              "title": "No Warranty",
+              "value": "7:4498"
+            },
+            {
+              "title": "Brand Warranty",
+              "value": "7:202300"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Warranty Period",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "8",
+          "options": [
+            {
+              "title": "26",
+              "value": "8:2408"
+            },
+            {
+              "title": "42",
+              "value": "8:2409"
+            },
+            {
+              "title": "112",
+              "value": "8:7"
+            },
+            {
+              "title": "46",
+              "value": "8:2410"
+            },
+            {
+              "title": "28",
+              "value": "8:2411"
+            },
+            {
+              "title": "44",
+              "value": "8:2419"
+            },
+            {
+              "title": "1 Year",
+              "value": "8:4447"
+            },
+            {
+              "title": "40",
+              "value": "8:2420"
+            },
+            {
+              "title": "1",
+              "value": "8:3918"
+            },
+            {
+              "title": "6 Months",
+              "value": "8:4456"
+            },
+            {
+              "title": "38",
+              "value": "8:2426"
+            },
+            {
+              "title": "Life Time Warranty",
+              "value": "8:4502"
+            },
+            {
+              "title": "36",
+              "value": "8:2427"
+            },
+            {
+              "title": "34",
+              "value": "8:2425"
+            },
+            {
+              "title": "30",
+              "value": "8:2428"
+            },
+            {
+              "title": "1 Month",
+              "value": "8:4463"
+            },
+            {
+              "title": "37",
+              "value": "8:2450"
+            },
+            {
+              "title": "32",
+              "value": "8:2433"
+            },
+            {
+              "title": "2 Years",
+              "value": "8:4446"
+            },
+            {
+              "title": "3 Months",
+              "value": "8:4462"
+            },
+            {
+              "title": "2 Months",
+              "value": "8:4461"
+            },
+            {
+              "title": "27",
+              "value": "8:2453"
+            },
+            {
+              "title": "5 Years",
+              "value": "8:4454"
+            },
+            {
+              "title": "25",
+              "value": "8:2452"
+            },
+            {
+              "title": "24",
+              "value": "8:2451"
+            },
+            {
+              "title": "11",
+              "value": "8:2493"
+            },
+            {
+              "title": "39",
+              "value": "8:2449"
+            },
+            {
+              "title": "7",
+              "value": "8:2503"
+            },
+            {
+              "title": "13",
+              "value": "8:2489"
+            }
+          ]
+        },
+        {
+          "name": "attribute",
+          "unfoldRow": "-1",
+          "title": "Color Family",
+          "urlKey": "ppath",
+          "hidden": false,
+          "locked": false,
+          "type": "multiple",
+          "uniqueName": "30129",
+          "options": [
+            {
+              "title": "Black",
+              "value": "30129:3731"
+            },
+            {
+              "title": "Clear",
+              "value": "30129:3750"
+            },
+            {
+              "title": "White",
+              "value": "30129:3743"
+            },
+            {
+              "title": "Multicolor",
+              "value": "30129:3759"
+            },
+            {
+              "title": "Blue",
+              "value": "30129:3732"
+            },
+            {
+              "title": "Red",
+              "value": "30129:1577"
+            },
+            {
+              "title": "Green",
+              "value": "30129:3736"
+            },
+            {
+              "title": "Pink",
+              "value": "30129:3739"
+            },
+            {
+              "title": "Purple",
+              "value": "30129:3740"
+            },
+            {
+              "title": "Silver",
+              "value": "30129:3741"
+            },
+            {
+              "title": "Orange",
+              "value": "30129:3738"
+            },
+            {
+              "title": "Grey",
+              "value": "30129:3735"
+            },
+            {
+              "title": "Gold",
+              "value": "30129:3734"
+            },
+            {
+              "title": "Yellow",
+              "value": "30129:3744"
+            },
+            {
+              "title": "Brown",
+              "value": "30129:3733"
+            },
+            {
+              "title": "Sand",
+              "value": "30129:103073"
+            },
+            {
+              "title": "Cyan",
+              "value": "30129:13987"
+            },
+            {
+              "title": "Dark blue",
+              "value": "30129:3775"
+            },
+            {
+              "title": "Multi",
+              "value": "30129:19454"
+            },
+            {
+              "title": "Navy Blue",
+              "value": "30129:3785"
+            },
+            {
+              "title": "Neutral",
+              "value": "30129:12645"
+            },
+            {
+              "title": "Mint",
+              "value": "30129:23347"
+            },
+            {
+              "title": "Beige",
+              "value": "30129:3737"
+            },
+            {
+              "title": "Rose Gold",
+              "value": "30129:21772"
+            },
+            {
+              "title": "Light green",
+              "value": "30129:3790"
+            },
+            {
+              "title": "Neo Bright",
+              "value": "30129:147420"
+            },
+            {
+              "title": "Army Green",
+              "value": "30129:3780"
+            },
+            {
+              "title": "Champagne",
+              "value": "30129:3781"
+            }
+          ]
+        }
+      ],
+      "filteredQuatity": "391",
+      "filteredDoneText": "Product",
+      "title": "Search Filter",
+      "pos": 0
+    },
+    "listItems": [
+      {
+        "name": "Goop AA Sized 1 Pair 800mAh 1.2V Rechargeable Battery for Camera, Camera Mic, Wall Clock, Flashlights",
+        "nid": "128251458",
+        "itemId": "128251458",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/9d997644026210aa9a3d858c2cafa215.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 318",
+        "ratingScore": "4.714285714285714",
+        "review": "13",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Swastik Suppliers",
+        "sellerId": "900159927738",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128251458_NP-1035424763",
+        "skuId": "1035424763",
+        "sku": "128251458_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "318",
+        "inStock": true,
+        "originalPrice": "500",
+        "clickTrace": "query:camera;nid:128251458;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:128251458_NP;price:318;client:desktop;supplier_id:900159927738;biz_source:h5_unknow;slot:0;utlog_bucket_id:470687;asc_category_id:257;item_id:128251458;sku_id:1035424763;shop_id:102623;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "61 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128251458_NP-1035424763"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F9d997644026210aa9a3d858c2cafa215.jpg&src=srp_findsimilar&item_id=128251458&sku_id=1035424763&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=318.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aa-sized-1-pair-800mah-12v-rechargeable-battery-for-camera-camera-mic-wall-clock-flashlights-i128251458.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1035424763%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A31800%3BdisplayPrice%3A31800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.714285714285714&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=61&price=318&review=13&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A128251458%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A128251458_NP%253Bprice%253A318%253Bclient%253Adesktop%253Bsupplier_id%253A900159927738%253Bbiz_source%253Ah5_unknow%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A128251458%253Bsku_id%253A1035424763%253Bshop_id%253A102623%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery for Canon 1100D 1200D 1300D 4000D 2000D LP E10 Battery for Canon Camera",
+        "nid": "121493470",
+        "itemId": "121493470",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "116088",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/2397998a817fbd5a80d2d002779594ea.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,900",
+        "ratingScore": "4.258064516129032",
+        "review": "31",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "121493470_NP-1070721726",
+        "skuId": "1070721726",
+        "sku": "121493470_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "1900",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:121493470;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:121493470_NP;price:1900;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:1;utlog_bucket_id:470687;asc_category_id:257;item_id:121493470;sku_id:1070721726;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "182 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "121493470_NP-1070721726"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2397998a817fbd5a80d2d002779594ea.jpg&src=srp_findsimilar&item_id=121493470&sku_id=1070721726&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1900.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-1100d-1200d-1300d-4000d-2000d-lp-e10-battery-for-canon-camera-i121493470.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1070721726%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A190000%3BdisplayPrice%3A190000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.258064516129032&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=182&price=1.9E%203&review=31&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A121493470%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A121493470_NP%253Bprice%253A1900%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A121493470%253Bsku_id%253A1070721726%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery for Canon 550D 600D 650D 700D Canon Camera LP-E8",
+        "nid": "121259122",
+        "itemId": "121259122",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/Sbcc0dc576aa340e5b1b77a3ebe37d91fH.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,000",
+        "ratingScore": "4.533333333333333",
+        "review": "30",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "121259122_NP-1033404809",
+        "skuId": "1033404809",
+        "sku": "121259122_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2000",
+        "inStock": true,
+        "originalPrice": "3600",
+        "clickTrace": "query:camera;nid:121259122;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:121259122_NP;price:2000;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:2;utlog_bucket_id:470687;asc_category_id:257;item_id:121259122;sku_id:1033404809;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "194 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "121259122_NP-1033404809"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FSbcc0dc576aa340e5b1b77a3ebe37d91fH.jpg&src=srp_findsimilar&item_id=121259122&sku_id=1033404809&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2000.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-550d-600d-650d-700d-canon-camera-lp-e8-i121259122.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1033404809%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A200000%3BdisplayPrice%3A200000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.533333333333333&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=194&price=2E%203&review=30&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A121259122%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A121259122_NP%253Bprice%253A2000%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A121259122%253Bsku_id%253A1033404809%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop Aaa 1.2V 1350 Mah Rechargeable Battery - 2Pcs",
+        "nid": "106123519",
+        "itemId": "106123519",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/cd606cc10b5792177f307c7495fe8735.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 360",
+        "ratingScore": "4.438356164383562",
+        "review": "73",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Lagankhel Gadgets",
+        "sellerId": "1004043",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "106123519_NP-1027970802",
+        "skuId": "1027970802",
+        "sku": "106123519_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "360",
+        "inStock": true,
+        "originalPrice": "599",
+        "clickTrace": "query:camera;nid:106123519;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:106123519_NP;price:360;client:desktop;supplier_id:1004043;biz_source:h5_unknow;slot:3;utlog_bucket_id:470687;asc_category_id:257;item_id:106123519;sku_id:1027970802;shop_id:13938;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "350 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "106123519_NP-1027970802"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fcd606cc10b5792177f307c7495fe8735.jpg&src=srp_findsimilar&item_id=106123519&sku_id=1027970802&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=360.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aaa-12v-1350-mah-rechargeable-battery-2pcs-i106123519.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1027970802%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A36000%3BdisplayPrice%3A36000%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.438356164383562&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=350&price=3.6E%202&review=73&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A106123519%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A106123519_NP%253Bprice%253A360%253Bclient%253Adesktop%253Bsupplier_id%253A1004043%253Bbiz_source%253Ah5_unknow%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A106123519%253Bsku_id%253A1027970802%253Bshop_id%253A13938%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Canon Lp E 17 Battery and Charger Combo for Canon 200D 750D 800D 250D 200D Mark II",
+        "nid": "128609201",
+        "itemId": "128609201",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/4d878554ed135d95c87ba39f3b5e5bb0.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,000",
+        "ratingScore": "4.785714285714286",
+        "review": "14",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128609201_NP-1036251741",
+        "skuId": "1036251741",
+        "sku": "128609201_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "3000",
+        "inStock": true,
+        "originalPrice": "6000",
+        "clickTrace": "query:camera;nid:128609201;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:128609201_NP;price:3000;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:4;utlog_bucket_id:470687;asc_category_id:257;item_id:128609201;sku_id:1036251741;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "71 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128609201_NP-1036251741"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F4d878554ed135d95c87ba39f3b5e5bb0.jpg&src=srp_findsimilar&item_id=128609201&sku_id=1036251741&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3000.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/canon-lp-e-17-battery-and-charger-combo-for-canon-200d-750d-800d-250d-200d-mark-ii-i128609201.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1036251741%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A300000%3BdisplayPrice%3A300000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.785714285714286&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=71&price=3E%203&review=14&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A128609201%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A128609201_NP%253Bprice%253A3000%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A128609201%253Bsku_id%253A1036251741%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Maxell Alkaline AA  Card of 8p",
+        "nid": "434667266",
+        "itemId": "434667266",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 3",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "162933",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "115841",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/S2be0267d2757432595469065885d6695r.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 285",
+        "ratingScore": "5.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Daraz Choice 1",
+        "sellerId": "900267648195",
+        "brandName": "",
+        "brandId": "24984",
+        "cheapest_sku": "434667266_NP-1878605527",
+        "skuId": "1878605527",
+        "sku": "434667266_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "285",
+        "inStock": true,
+        "originalPrice": "292",
+        "clickTrace": "query:camera;nid:434667266;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:434667266_NP;price:285;client:desktop;supplier_id:900267648195;biz_source:h5_unknow;slot:5;utlog_bucket_id:470687;asc_category_id:257;item_id:434667266;sku_id:1878605527;shop_id:178921;templateInfo:1103_L#-1_A3_C#",
+        "recommendTips": {
+          "recommendId": 73,
+          "text": [
+            {
+              "content": "Buy 4 Get 1 Free",
+              "fontcolor": "#BB6D19",
+              "fontsize": 11,
+              "listlayoutcontent": "Buy 4 Get 1 Free"
+            },
+            {
+              "fontcolor": "#BB6D19",
+              "fontsize": 11
+            }
+          ],
+          "clickIcon": {
+            "imgUrl": "https://img.alicdn.com/imgextra/i4/O1CN01aZ0xKK1RcxtJ891xn_!!6000000002133-2-tps-12-24.png",
+            "width": 6,
+            "height": 12
+          },
+          "showType": "0",
+          "traceInfo": "%7B%22predict_cate_ids%22%3A%225880%2C5883%2C9593%2C10002902%22%2C%22selected_cate_id%22%3A%22257%22%2C%22rn%22%3A%224feec9bf71778a914c858d7b627b1bc8%22%2C%22pre_cate_id%22%3A%22257%22%2C%22pre_item_id%22%3A%22434667266%22%2C%22reason_id%22%3A%2273%22%7D",
+          "bgImg": "https://lzd-img-global.slatic.net/us/media/e3e741561a28d16158217ec293747cd0-342-60.png"
+        },
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "434667266_NP-1878605527"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FS2be0267d2757432595469065885d6695r.jpg&src=srp_findsimilar&item_id=434667266&sku_id=1878605527&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=285.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/maxell-alkaline-aa-card-of-8p-i434667266.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1878605527%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A28500%3BdisplayPrice%3A28500%3BsinglePromotionId%3A50000019164001%3BsingleToolCode%3AshopPromPrice_choiceEarlyBird%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&upItemIds=434667266&spm=a211g0.searchlist.list.5&search=1&sale=4&price=285&review=1&configId=choice_NP_promotion&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A434667266%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A434667266_NP%253Bprice%253A285%253Bclient%253Adesktop%253Bsupplier_id%253A900267648195%253Bbiz_source%253Ah5_unknow%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A434667266%253Bsku_id%253A1878605527%253Bshop_id%253A178921%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Nikon Dslr Camera Battery for Nikon D3200 D3300 D3400 D3500 D5100 D5200 D5300 D5500 D5600",
+        "nid": "134247363",
+        "itemId": "134247363",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/S21a733ee37df47ebbcc6b047b2c985a9P.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,500",
+        "ratingScore": "5.0",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "134247363_NP-1057585525",
+        "skuId": "1057585525",
+        "sku": "134247363_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2500",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:134247363;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:134247363_NP;price:2500;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:6;utlog_bucket_id:470687;asc_category_id:257;item_id:134247363;sku_id:1057585525;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "52 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "134247363_NP-1057585525"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FS21a733ee37df47ebbcc6b047b2c985a9P.jpg&src=srp_findsimilar&item_id=134247363&sku_id=1057585525&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2500.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/nikon-dslr-camera-battery-for-nikon-d3200-d3300-d3400-d3500-d5100-d5200-d5300-d5500-d5600-i134247363.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1057585525%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A250000%3BdisplayPrice%3A250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=52&price=2.5E%203&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A134247363%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A134247363_NP%253Bprice%253A2500%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A134247363%253Bsku_id%253A1057585525%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Rechargeable Battery Cell 3.7v 8800 mAh Large Capacity",
+        "nid": "133220480",
+        "itemId": "133220480",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/06e2bb09a1b3829f01623c695c4f7b53.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 299",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Ganapati Store",
+        "sellerId": "900152799256",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "133220480_NP-1052637620",
+        "skuId": "1052637620",
+        "sku": "133220480_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "299",
+        "inStock": true,
+        "originalPrice": "699",
+        "clickTrace": "query:camera;nid:133220480;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:133220480_NP;price:299;client:desktop;supplier_id:900152799256;biz_source:h5_unknow;slot:7;utlog_bucket_id:470687;asc_category_id:257;item_id:133220480;sku_id:1052637620;shop_id:53908;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "6 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "133220480_NP-1052637620"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F06e2bb09a1b3829f01623c695c4f7b53.jpg&src=srp_findsimilar&item_id=133220480&sku_id=1052637620&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=299.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/rechargeable-battery-cell-37v-8800-mah-large-capacity-i133220480.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1052637620%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A29900%3BdisplayPrice%3A29900%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=299&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A133220480%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A133220480_NP%253Bprice%253A299%253Bclient%253Adesktop%253Bsupplier_id%253A900152799256%253Bbiz_source%253Ah5_unknow%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A133220480%253Bsku_id%253A1052637620%253Bshop_id%253A53908%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Original Replacement Battery For GoPro Hero 10 9 Sport Camera Battery",
+        "nid": "121085253",
+        "itemId": "121085253",
+        "icons": [
+          {
+            "domClass": "116121",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 25",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/fac9e8dedf4913da739aa7d8b2bd211d.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,500",
+        "ratingScore": "4.666666666666667",
+        "review": "3",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "DITL",
+        "sellerId": "1002008",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "121085253_NP-1032974310",
+        "skuId": "1032974310",
+        "sku": "121085253_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2500",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:121085253;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:121085253_NP;price:2500;client:desktop;supplier_id:1002008;biz_source:h5_unknow;slot:8;utlog_bucket_id:470687;asc_category_id:257;item_id:121085253;sku_id:1032974310;shop_id:11913;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "35 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "121085253_NP-1032974310"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Ffac9e8dedf4913da739aa7d8b2bd211d.jpg&src=srp_findsimilar&item_id=121085253&sku_id=1032974310&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2500.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/original-replacement-battery-for-gopro-hero-10-9-sport-camera-battery-i121085253.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1032974310%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A250000%3BdisplayPrice%3A250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.666666666666667&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=35&price=2.5E%203&review=3&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A121085253%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A121085253_NP%253Bprice%253A2500%253Bclient%253Adesktop%253Bsupplier_id%253A1002008%253Bbiz_source%253Ah5_unknow%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A121085253%253Bsku_id%253A1032974310%253Bshop_id%253A11913%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop 1.2V AA Rechargeable Battery - Double Battery",
+        "nid": "124687346",
+        "itemId": "124687346",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "116088",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/c36366269fc22c0d2d5e01127760fd43.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 460",
+        "ratingScore": "4.785714285714286",
+        "review": "56",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Lagankhel Gadgets",
+        "sellerId": "1004043",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "124687346_NP-1033870497",
+        "skuId": "1033870497",
+        "sku": "124687346_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "460",
+        "inStock": true,
+        "originalPrice": "599",
+        "clickTrace": "query:camera;nid:124687346;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:124687346_NP;price:460;client:desktop;supplier_id:1004043;biz_source:h5_unknow;slot:9;utlog_bucket_id:470687;asc_category_id:257;item_id:124687346;sku_id:1033870497;shop_id:13938;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "337 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "124687346_NP-1033870497"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fc36366269fc22c0d2d5e01127760fd43.jpg&src=srp_findsimilar&item_id=124687346&sku_id=1033870497&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=460.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-12v-aa-rechargeable-battery-double-battery-i124687346.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1033870497%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A46000%3BdisplayPrice%3A46000%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.785714285714286&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=337&price=4.6E%202&review=56&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A124687346%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A124687346_NP%253Bprice%253A460%253Bclient%253Adesktop%253Bsupplier_id%253A1004043%253Bbiz_source%253Ah5_unknow%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A124687346%253Bsku_id%253A1033870497%253Bshop_id%253A13938%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Maxell Alkaline AAA Card of 2p",
+        "nid": "460345338",
+        "itemId": "460345338",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 1",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "162933",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "115841",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/Sa8d5f030b25d46539795847c6ffbb141Q.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 84",
+        "ratingScore": "5.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Daraz Choice 1",
+        "sellerId": "900267648195",
+        "brandName": "",
+        "brandId": "24984",
+        "cheapest_sku": "460345338_NP-2062766631",
+        "skuId": "2062766631",
+        "sku": "460345338_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "84",
+        "inStock": true,
+        "originalPrice": "86",
+        "clickTrace": "query:camera;nid:460345338;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:460345338_NP;price:84;client:desktop;supplier_id:900267648195;biz_source:h5_unknow;slot:10;utlog_bucket_id:470687;asc_category_id:257;item_id:460345338;sku_id:2062766631;shop_id:178921;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "8 sold",
+        "recommendTips": {
+          "recommendId": 73,
+          "text": [
+            {
+              "content": "Buy 4 Get 1 Free",
+              "fontcolor": "#BB6D19",
+              "fontsize": 11,
+              "listlayoutcontent": "Buy 4 Get 1 Free"
+            },
+            {
+              "fontcolor": "#BB6D19",
+              "fontsize": 11
+            }
+          ],
+          "clickIcon": {
+            "imgUrl": "https://img.alicdn.com/imgextra/i4/O1CN01aZ0xKK1RcxtJ891xn_!!6000000002133-2-tps-12-24.png",
+            "width": 6,
+            "height": 12
+          },
+          "showType": "0",
+          "traceInfo": "%7B%22predict_cate_ids%22%3A%225880%2C5883%2C9593%2C10002902%22%2C%22selected_cate_id%22%3A%22257%22%2C%22rn%22%3A%224feec9bf71778a914c858d7b627b1bc8%22%2C%22pre_cate_id%22%3A%22257%22%2C%22pre_item_id%22%3A%22460345338%22%2C%22reason_id%22%3A%2273%22%7D",
+          "bgImg": "https://lzd-img-global.slatic.net/us/media/e3e741561a28d16158217ec293747cd0-342-60.png"
+        },
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "460345338_NP-2062766631"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FSa8d5f030b25d46539795847c6ffbb141Q.jpg&src=srp_findsimilar&item_id=460345338&sku_id=2062766631&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=84.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/maxell-alkaline-aaa-card-of-2p-i460345338.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2062766631%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A8400%3BdisplayPrice%3A8400%3BsinglePromotionId%3A50000019164001%3BsingleToolCode%3AshopPromPrice_choiceEarlyBird%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&upItemIds=460345338&spm=a211g0.searchlist.list.10&search=1&sale=8&price=84&review=1&configId=choice_NP_promotion&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A460345338%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A460345338_NP%253Bprice%253A84%253Bclient%253Adesktop%253Bsupplier_id%253A900267648195%253Bbiz_source%253Ah5_unknow%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A460345338%253Bsku_id%253A2062766631%253Bshop_id%253A178921%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery for Canon 400D 450D 500D Eos Rebel XS Lp- E5 Battery",
+        "nid": "146707303",
+        "itemId": "146707303",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/S448a06e4df3849e9a4e970783b106c37b.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,500",
+        "ratingScore": "5.0",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "146707303_NP-1099033165",
+        "skuId": "1099033165",
+        "sku": "146707303_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "3500",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:146707303;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:146707303_NP;price:3500;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:11;utlog_bucket_id:470687;asc_category_id:257;item_id:146707303;sku_id:1099033165;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "7 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "146707303_NP-1099033165"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FS448a06e4df3849e9a4e970783b106c37b.jpg&src=srp_findsimilar&item_id=146707303&sku_id=1099033165&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3500.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-400d-450d-500d-eos-rebel-xs-lp-e5-battery-i146707303.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1099033165%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A350000%3BdisplayPrice%3A350000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=3.5E%203&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A146707303%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A146707303_NP%253Bprice%253A3500%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A146707303%253Bsku_id%253A1099033165%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Rechargeable Battery Cell 3.7v 8800 mAh Large Capacity",
+        "nid": "133236286",
+        "itemId": "133236286",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/06e2bb09a1b3829f01623c695c4f7b53.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 241",
+        "ratingScore": "4.1",
+        "review": "10",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Trending gallery",
+        "sellerId": "900204960052",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "133236286_NP-1052634805",
+        "skuId": "1052634805",
+        "sku": "133236286_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "241",
+        "inStock": true,
+        "originalPrice": "699",
+        "clickTrace": "query:camera;nid:133236286;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:133236286_NP;price:241;client:desktop;supplier_id:900204960052;biz_source:h5_unknow;slot:12;utlog_bucket_id:470687;asc_category_id:257;item_id:133236286;sku_id:1052634805;shop_id:125536;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "82 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "133236286_NP-1052634805"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F06e2bb09a1b3829f01623c695c4f7b53.jpg&src=srp_findsimilar&item_id=133236286&sku_id=1052634805&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=241.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/rechargeable-battery-cell-37v-8800-mah-large-capacity-i133236286.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1052634805%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A24100%3BdisplayPrice%3A24100%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.1&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=82&price=241&review=10&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A133236286%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A133236286_NP%253Bprice%253A241%253Bclient%253Adesktop%253Bsupplier_id%253A900204960052%253Bbiz_source%253Ah5_unknow%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A133236286%253Bsku_id%253A1052634805%253Bshop_id%253A125536%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Jiabao Jb-212 Led Charger For Aa And Aaa With 4Pcs Rechargeable Battery",
+        "nid": "100854057",
+        "itemId": "100854057",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/47dfca4f60e7e33bfbbb0d729dbe5b15.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 699",
+        "ratingScore": "4.2",
+        "review": "15",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Kirtipur Gadgets",
+        "sellerId": "1004932",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "100854057_NP-1021386437",
+        "skuId": "1021386437",
+        "sku": "100854057_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "699",
+        "inStock": true,
+        "originalPrice": "799",
+        "clickTrace": "query:camera;nid:100854057;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:100854057_NP;price:699;client:desktop;supplier_id:1004932;biz_source:h5_unknow;slot:13;utlog_bucket_id:470687;asc_category_id:257;item_id:100854057;sku_id:1021386437;shop_id:14836;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "84 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "100854057_NP-1021386437"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F47dfca4f60e7e33bfbbb0d729dbe5b15.jpg&src=srp_findsimilar&item_id=100854057&sku_id=1021386437&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=699.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/jiabao-jb-212-led-charger-for-aa-and-aaa-with-4pcs-rechargeable-battery-i100854057.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1021386437%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A69900%3BdisplayPrice%3A69900%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.2&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=84&price=699&review=15&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A100854057%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A100854057_NP%253Bprice%253A699%253Bclient%253Adesktop%253Bsupplier_id%253A1004932%253Bbiz_source%253Ah5_unknow%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A100854057%253Bsku_id%253A1021386437%253Bshop_id%253A14836%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop AA 1.2V 2700 mah Rechargeable Battery - 2pcs",
+        "nid": "128760018",
+        "itemId": "128760018",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/S5de41cce15c14f36a37a553c046c9435w.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 499",
+        "ratingScore": "4.2",
+        "review": "5",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "SIM-EDWIN",
+        "sellerId": "900182592085",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128760018_NP-1036799948",
+        "skuId": "1036799948",
+        "sku": "128760018_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "499",
+        "inStock": true,
+        "originalPrice": "599",
+        "clickTrace": "query:camera;nid:128760018;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:128760018_NP;price:499;client:desktop;supplier_id:900182592085;biz_source:h5_unknow;slot:14;utlog_bucket_id:470687;asc_category_id:257;item_id:128760018;sku_id:1036799948;shop_id:110555;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "35 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128760018_NP-1036799948"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FS5de41cce15c14f36a37a553c046c9435w.jpg&src=srp_findsimilar&item_id=128760018&sku_id=1036799948&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=499.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aa-12v-2700-mah-rechargeable-battery-2pcs-i128760018.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1036799948%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A49900%3BdisplayPrice%3A49900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.2&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=35&price=499&review=5&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A128760018%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A128760018_NP%253Bprice%253A499%253Bclient%253Adesktop%253Bsupplier_id%253A900182592085%253Bbiz_source%253Ah5_unknow%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A128760018%253Bsku_id%253A1036799948%253Bshop_id%253A110555%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery For Canon NB-11L",
+        "nid": "115416852",
+        "itemId": "115416852",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/4e8ad7193201a06b502d5daf952b0542.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,600",
+        "ratingScore": "3.857142857142857",
+        "review": "7",
+        "location": "Madhesh Province",
+        "thumbs": [],
+        "sellerName": "S.R.S IMPEX",
+        "sellerId": "900152967002",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "115416852_NP-1031548722",
+        "skuId": "1031548722",
+        "sku": "115416852_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "3600",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:115416852;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:115416852_NP;price:3600;client:desktop;supplier_id:900152967002;biz_source:h5_unknow;slot:15;utlog_bucket_id:470687;asc_category_id:257;item_id:115416852;sku_id:1031548722;shop_id:56197;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "23 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "115416852_NP-1031548722"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F4e8ad7193201a06b502d5daf952b0542.jpg&src=srp_findsimilar&item_id=115416852&sku_id=1031548722&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3600.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-nb-11l-i115416852.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031548722%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A360000%3BdisplayPrice%3A360000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=3.857142857142857&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=23&price=3.6E%203&review=7&location=Madhesh%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A115416852%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A115416852_NP%253Bprice%253A3600%253Bclient%253Adesktop%253Bsupplier_id%253A900152967002%253Bbiz_source%253Ah5_unknow%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A115416852%253Bsku_id%253A1031548722%253Bshop_id%253A56197%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Maxell Alkaline AAA Card of 4p",
+        "nid": "460336519",
+        "itemId": "460336519",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 2",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "162933",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "115841",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/Sb969bd415a6b4c3ca6738cfe6c52a86bU.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 162",
+        "ratingScore": "5.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Daraz Choice 1",
+        "sellerId": "900267648195",
+        "brandName": "",
+        "brandId": "24984",
+        "cheapest_sku": "460336519_NP-2062751521",
+        "skuId": "2062751521",
+        "sku": "460336519_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "162",
+        "inStock": true,
+        "originalPrice": "165",
+        "clickTrace": "query:camera;nid:460336519;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:460336519_NP;price:162;client:desktop;supplier_id:900267648195;biz_source:h5_unknow;slot:16;utlog_bucket_id:470687;asc_category_id:257;item_id:460336519;sku_id:2062751521;shop_id:178921;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "6 sold",
+        "recommendTips": {
+          "recommendId": 73,
+          "text": [
+            {
+              "content": "Buy 4 Get 1 Free",
+              "fontcolor": "#BB6D19",
+              "fontsize": 11,
+              "listlayoutcontent": "Buy 4 Get 1 Free"
+            },
+            {
+              "fontcolor": "#BB6D19",
+              "fontsize": 11
+            }
+          ],
+          "clickIcon": {
+            "imgUrl": "https://img.alicdn.com/imgextra/i4/O1CN01aZ0xKK1RcxtJ891xn_!!6000000002133-2-tps-12-24.png",
+            "width": 6,
+            "height": 12
+          },
+          "showType": "0",
+          "traceInfo": "%7B%22predict_cate_ids%22%3A%225880%2C5883%2C9593%2C10002902%22%2C%22selected_cate_id%22%3A%22257%22%2C%22rn%22%3A%224feec9bf71778a914c858d7b627b1bc8%22%2C%22pre_cate_id%22%3A%22257%22%2C%22pre_item_id%22%3A%22460336519%22%2C%22reason_id%22%3A%2273%22%7D",
+          "bgImg": "https://lzd-img-global.slatic.net/us/media/e3e741561a28d16158217ec293747cd0-342-60.png"
+        },
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "460336519_NP-2062751521"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FSb969bd415a6b4c3ca6738cfe6c52a86bU.jpg&src=srp_findsimilar&item_id=460336519&sku_id=2062751521&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=162.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/maxell-alkaline-aaa-card-of-4p-i460336519.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A2062751521%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A16200%3BdisplayPrice%3A16200%3BsinglePromotionId%3A50000019164001%3BsingleToolCode%3AshopPromPrice_choiceEarlyBird%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&upItemIds=460336519&spm=a211g0.searchlist.list.16&search=1&sale=6&price=162&review=1&configId=choice_NP_promotion&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A460336519%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A460336519_NP%253Bprice%253A162%253Bclient%253Adesktop%253Bsupplier_id%253A900267648195%253Bbiz_source%253Ah5_unknow%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A460336519%253Bsku_id%253A2062751521%253Bshop_id%253A178921%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Rechargeable Battery Cell 3.7v 8800 mAh Large Capacity",
+        "nid": "133236289",
+        "itemId": "133236289",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/06e2bb09a1b3829f01623c695c4f7b53.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 349",
+        "ratingScore": "4.0",
+        "review": "3",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Electro Hub Nepal",
+        "sellerId": "900152148017",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "133236289_NP-1052642072",
+        "skuId": "1052642072",
+        "sku": "133236289_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "349",
+        "inStock": true,
+        "originalPrice": "999",
+        "clickTrace": "query:camera;nid:133236289;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:133236289_NP;price:349;client:desktop;supplier_id:900152148017;biz_source:h5_unknow;slot:17;utlog_bucket_id:470687;asc_category_id:257;item_id:133236289;sku_id:1052642072;shop_id:38856;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "6 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "133236289_NP-1052642072"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F06e2bb09a1b3829f01623c695c4f7b53.jpg&src=srp_findsimilar&item_id=133236289&sku_id=1052642072&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=349.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/rechargeable-battery-cell-37v-8800-mah-large-capacity-i133236289.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1052642072%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A34900%3BdisplayPrice%3A34900%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=6&price=349&review=3&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A133236289%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A133236289_NP%253Bprice%253A349%253Bclient%253Adesktop%253Bsupplier_id%253A900152148017%253Bbiz_source%253Ah5_unknow%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A133236289%253Bsku_id%253A1052642072%253Bshop_id%253A38856%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery For Canon NB -8L",
+        "nid": "115421234",
+        "itemId": "115421234",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/55ff846f2966c563e0960214008582c6.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,540",
+        "ratingScore": "4.0",
+        "review": "5",
+        "location": "Madhesh Province",
+        "thumbs": [],
+        "sellerName": "S.R.S IMPEX",
+        "sellerId": "900152967002",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "115421234_NP-1031551063",
+        "skuId": "1031551063",
+        "sku": "115421234_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "1540",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:115421234;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:115421234_NP;price:1540;client:desktop;supplier_id:900152967002;biz_source:h5_unknow;slot:18;utlog_bucket_id:470687;asc_category_id:257;item_id:115421234;sku_id:1031551063;shop_id:56197;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "13 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "115421234_NP-1031551063"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F55ff846f2966c563e0960214008582c6.jpg&src=srp_findsimilar&item_id=115421234&sku_id=1031551063&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1540.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-nb-8l-i115421234.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031551063%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A154000%3BdisplayPrice%3A154000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13&price=1.54E%203&review=5&location=Madhesh%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A115421234%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A115421234_NP%253Bprice%253A1540%253Bclient%253Adesktop%253Bsupplier_id%253A900152967002%253Bbiz_source%253Ah5_unknow%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A115421234%253Bsku_id%253A1031551063%253Bshop_id%253A56197%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery For Canon LP-E17",
+        "nid": "115422146",
+        "itemId": "115422146",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/275dd3ba624477b7ba0b05de43d6a095.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,850",
+        "ratingScore": "3.7142857142857144",
+        "review": "7",
+        "location": "Madhesh Province",
+        "thumbs": [],
+        "sellerName": "S.R.S IMPEX",
+        "sellerId": "900152967002",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "115422146_NP-1038916676",
+        "skuId": "1038916676",
+        "sku": "115422146_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "3850",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:115422146;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:115422146_NP;price:3850;client:desktop;supplier_id:900152967002;biz_source:h5_unknow;slot:19;utlog_bucket_id:470687;asc_category_id:257;item_id:115422146;sku_id:1038916676;shop_id:56197;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "28 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "115422146_NP-1038916676"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F275dd3ba624477b7ba0b05de43d6a095.jpg&src=srp_findsimilar&item_id=115422146&sku_id=1038916676&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3850.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-canon-lp-e17-i115422146.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1038916676%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A385000%3BdisplayPrice%3A385000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=3.7142857142857144&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=28&price=3.85E%203&review=7&location=Madhesh%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A115422146%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A115422146_NP%253Bprice%253A3850%253Bclient%253Adesktop%253Bsupplier_id%253A900152967002%253Bbiz_source%253Ah5_unknow%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A115422146%253Bsku_id%253A1038916676%253Bshop_id%253A56197%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Maxell CR2032 3V Lithium Coin Battery- 1 pc",
+        "nid": "113468961",
+        "itemId": "113468961",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 1",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/8a2aae9b61fcd6abf46ddf1560616869.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 82",
+        "ratingScore": "4.8",
+        "review": "5",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Swet Kaali",
+        "sellerId": "8982",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "113468961_NP-1030836997",
+        "skuId": "1030836997",
+        "sku": "113468961_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "82",
+        "inStock": true,
+        "originalPrice": "100",
+        "clickTrace": "query:camera;nid:113468961;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:113468961_NP;price:82;client:desktop;supplier_id:8982;biz_source:h5_unknow;slot:20;utlog_bucket_id:470687;asc_category_id:257;item_id:113468961;sku_id:1030836997;shop_id:9050;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "64 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "113468961_NP-1030836997"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F8a2aae9b61fcd6abf46ddf1560616869.jpg&src=srp_findsimilar&item_id=113468961&sku_id=1030836997&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=82.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/maxell-cr2032-3v-lithium-coin-battery-1-pc-i113468961.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1030836997%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A8200%3BdisplayPrice%3A8200%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.8&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=64&price=82&review=5&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A113468961%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A113468961_NP%253Bprice%253A82%253Bclient%253Adesktop%253Bsupplier_id%253A8982%253Bbiz_source%253Ah5_unknow%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A113468961%253Bsku_id%253A1030836997%253Bshop_id%253A9050%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Nikon EN-EL14a DSLR Camera Battery 1230 mAh Compatible with Nikon D3100 D3200 D3300 D3400 D3500 D5100 D5200 D5300 D5500 D5600 DF Coolpix P7000 P7100 P7700 P7800.",
+        "nid": "150181037",
+        "itemId": "150181037",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/05d2c7a8144368a976c1ee35ec3d6dd8.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,999",
+        "ratingScore": "5.0",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Ace Retails",
+        "sellerId": "900151923028",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "150181037_NP-1105416612",
+        "skuId": "1105416612",
+        "sku": "150181037_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2999",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:150181037;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:150181037_NP;price:2999;client:desktop;supplier_id:900151923028;biz_source:h5_unknow;slot:21;utlog_bucket_id:470687;asc_category_id:257;item_id:150181037;sku_id:1105416612;shop_id:35754;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "11 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "150181037_NP-1105416612"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F05d2c7a8144368a976c1ee35ec3d6dd8.jpg&src=srp_findsimilar&item_id=150181037&sku_id=1105416612&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2999.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/nikon-en-el14a-dslr-camera-battery-1230-mah-compatible-with-nikon-d3100-d3200-d3300-d3400-d3500-d5100-d5200-d5300-d5500-d5600-df-coolpix-p7000-p7100-p7700-p7800-i150181037.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1105416612%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A299900%3BdisplayPrice%3A299900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=2999&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A150181037%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A150181037_NP%253Bprice%253A2999%253Bclient%253Adesktop%253Bsupplier_id%253A900151923028%253Bbiz_source%253Ah5_unknow%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A150181037%253Bsku_id%253A1105416612%253Bshop_id%253A35754%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "GOOP 1700mWh AAA Rechargeable Battery (1 Pair) with Type-C Port",
+        "nid": "437226542",
+        "itemId": "437226542",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "162933",
+            "type": "img",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/24cd975aa505a7cd15f34d9962541b57.png",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 848",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Lagankhel Gadgets",
+        "sellerId": "1004043",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "437226542_NP-1907366933",
+        "skuId": "1907366933",
+        "sku": "437226542_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "848",
+        "inStock": true,
+        "originalPrice": "1599",
+        "clickTrace": "query:camera;nid:437226542;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:437226542_NP;price:848;client:desktop;supplier_id:1004043;biz_source:h5_unknow;slot:22;utlog_bucket_id:470687;asc_category_id:257;item_id:437226542;sku_id:1907366933;shop_id:13938;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "11 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "437226542_NP-1907366933"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F24cd975aa505a7cd15f34d9962541b57.png&src=srp_findsimilar&item_id=437226542&sku_id=1907366933&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=848.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-1700mwh-aaa-rechargeable-battery-1-pair-with-type-c-port-i437226542.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1907366933%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A84800%3BdisplayPrice%3A84800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=11&price=848&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A437226542%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A437226542_NP%253Bprice%253A848%253Bclient%253Adesktop%253Bsupplier_id%253A1004043%253Bbiz_source%253Ah5_unknow%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A437226542%253Bsku_id%253A1907366933%253Bshop_id%253A13938%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Nikon Battery EN-EL 14a for Nikon",
+        "nid": "122923206",
+        "itemId": "122923206",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/S6c2678ff1a7f412d9c014c1972372025k.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,500",
+        "ratingScore": "4.615384615384615",
+        "review": "26",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "122923206_NP-1034968780",
+        "skuId": "1034968780",
+        "sku": "122923206_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2500",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:122923206;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:122923206_NP;price:2500;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:23;utlog_bucket_id:470687;asc_category_id:257;item_id:122923206;sku_id:1034968780;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "151 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "122923206_NP-1034968780"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FS6c2678ff1a7f412d9c014c1972372025k.jpg&src=srp_findsimilar&item_id=122923206&sku_id=1034968780&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2500.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/nikon-battery-en-el-14a-for-nikon-i122923206.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034968780%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A250000%3BdisplayPrice%3A250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.615384615384615&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=151&price=2.5E%203&review=26&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A122923206%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A122923206_NP%253Bprice%253A2500%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A122923206%253Bsku_id%253A1034968780%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "3.7 Volt Lithium Battery",
+        "nid": "104182678",
+        "itemId": "104182678",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/4e058de5867c22f30c3e6485c9f6aad5.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 158",
+        "ratingScore": "4.25",
+        "review": "16",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Lagankhel Gadgets",
+        "sellerId": "1004043",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "104182678_NP-1025026496",
+        "skuId": "1025026496",
+        "sku": "104182678_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "158",
+        "inStock": true,
+        "originalPrice": "249",
+        "clickTrace": "query:camera;nid:104182678;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:104182678_NP;price:158;client:desktop;supplier_id:1004043;biz_source:h5_unknow;slot:24;utlog_bucket_id:470687;asc_category_id:257;item_id:104182678;sku_id:1025026496;shop_id:13938;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "120 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "104182678_NP-1025026496"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F4e058de5867c22f30c3e6485c9f6aad5.jpg&src=srp_findsimilar&item_id=104182678&sku_id=1025026496&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=158.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/37-volt-lithium-battery-i104182678.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1025026496%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A15800%3BdisplayPrice%3A15800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.25&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=120&price=158&review=16&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A104182678%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A104182678_NP%253Bprice%253A158%253Bclient%253Adesktop%253Bsupplier_id%253A1004043%253Bbiz_source%253Ah5_unknow%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A104182678%253Bsku_id%253A1025026496%253Bshop_id%253A13938%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop AA 2700mAh Ni-CD 1.2V Rechargeable Batteries (2 Pairs) - Long-Lasting, High Performance for Electronics Device & Baby’s Toys",
+        "nid": "110745231",
+        "itemId": "110745231",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 10",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/46fed4096787d1215fe053ce8fcfdda6.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 999",
+        "ratingScore": "5.0",
+        "review": "3",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Nepal Multitrade Shop",
+        "sellerId": "900152241028",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "110745231_NP-1030009938",
+        "skuId": "1030009938",
+        "sku": "110745231_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "999",
+        "inStock": true,
+        "originalPrice": "1300",
+        "clickTrace": "query:camera;nid:110745231;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:110745231_NP;price:999;client:desktop;supplier_id:900152241028;biz_source:h5_unknow;slot:25;utlog_bucket_id:470687;asc_category_id:257;item_id:110745231;sku_id:1030009938;shop_id:41807;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "24 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "110745231_NP-1030009938"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F46fed4096787d1215fe053ce8fcfdda6.jpg&src=srp_findsimilar&item_id=110745231&sku_id=1030009938&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=999.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aa-2700mah-ni-cd-12v-rechargeable-batteries-2-pairs-long-lasting-high-performance-for-electronics-device-babys-toys-i110745231.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1030009938%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A99900%3BdisplayPrice%3A99900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=24&price=999&review=3&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A110745231%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A110745231_NP%253Bprice%253A999%253Bclient%253Adesktop%253Bsupplier_id%253A900152241028%253Bbiz_source%253Ah5_unknow%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A110745231%253Bsku_id%253A1030009938%253Bshop_id%253A41807%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Battery For Samsung BP70A",
+        "nid": "115417607",
+        "itemId": "115417607",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/20f993e6b43b87ad518262b5e7efd04c.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 1,600",
+        "ratingScore": "4.6",
+        "review": "5",
+        "location": "Madhesh Province",
+        "thumbs": [],
+        "sellerName": "S.R.S IMPEX",
+        "sellerId": "900152967002",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "115417607_NP-1031544904",
+        "skuId": "1031544904",
+        "sku": "115417607_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "1600",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:115417607;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:115417607_NP;price:1600;client:desktop;supplier_id:900152967002;biz_source:h5_unknow;slot:26;utlog_bucket_id:470687;asc_category_id:257;item_id:115417607;sku_id:1031544904;shop_id:56197;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "16 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "115417607_NP-1031544904"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F20f993e6b43b87ad518262b5e7efd04c.jpg&src=srp_findsimilar&item_id=115417607&sku_id=1031544904&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1600.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/battery-for-samsung-bp70a-i115417607.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031544904%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A160000%3BdisplayPrice%3A160000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.6&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=16&price=1.6E%203&review=5&location=Madhesh%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A115417607%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A115417607_NP%253Bprice%253A1600%253Bclient%253Adesktop%253Bsupplier_id%253A900152967002%253Bbiz_source%253Ah5_unknow%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A115417607%253Bsku_id%253A1031544904%253Bshop_id%253A56197%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Pack Of 5 Selfie Remote Remote Shutter Battery 3V Lithium Cell (Cr2032)",
+        "nid": "127805606",
+        "itemId": "127805606",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/03446eb617116c400da612c1a4911deb.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 195",
+        "ratingScore": "4.608695652173913",
+        "review": "23",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "ProductsBook",
+        "sellerId": "900152364331",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "127805606_NP-1034837063",
+        "skuId": "1034837063",
+        "sku": "127805606_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "195",
+        "inStock": true,
+        "originalPrice": "299",
+        "clickTrace": "query:camera;nid:127805606;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:127805606_NP;price:195;client:desktop;supplier_id:900152364331;biz_source:h5_unknow;slot:27;utlog_bucket_id:470687;asc_category_id:257;item_id:127805606;sku_id:1034837063;shop_id:46120;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "65 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "127805606_NP-1034837063"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F03446eb617116c400da612c1a4911deb.jpg&src=srp_findsimilar&item_id=127805606&sku_id=1034837063&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=195.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/pack-of-5-selfie-remote-remote-shutter-battery-3v-lithium-cell-cr2032-i127805606.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034837063%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A19500%3BdisplayPrice%3A19500%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.608695652173913&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=65&price=195&review=23&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A127805606%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A127805606_NP%253Bprice%253A195%253Bclient%253Adesktop%253Bsupplier_id%253A900152364331%253Bbiz_source%253Ah5_unknow%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A127805606%253Bsku_id%253A1034837063%253Bshop_id%253A46120%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Canon Lp E6N 1865 Mah Battery for Canon 70D / 80D / 90D / 6D ii / 5D Camera",
+        "nid": "131714053",
+        "itemId": "131714053",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://np-live-21.slatic.net/kf/Se4e98abf3fa2467e8c5d5f3cab4600d5K.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,600",
+        "ratingScore": "4.5",
+        "review": "8",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Camera and Lens Shop Nepal",
+        "sellerId": "900156174744",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "131714053_NP-1039078092",
+        "skuId": "1039078092",
+        "sku": "131714053_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2600",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:131714053;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:131714053_NP;price:2600;client:desktop;supplier_id:900156174744;biz_source:h5_unknow;slot:28;utlog_bucket_id:470687;asc_category_id:257;item_id:131714053;sku_id:1039078092;shop_id:78360;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "52 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "131714053_NP-1039078092"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fnp-live-21.slatic.net%2Fkf%2FSe4e98abf3fa2467e8c5d5f3cab4600d5K.jpg&src=srp_findsimilar&item_id=131714053&sku_id=1039078092&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2600.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/canon-lp-e6n-1865-mah-battery-for-canon-70d-80d-90d-6d-ii-5d-camera-i131714053.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1039078092%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A260000%3BdisplayPrice%3A260000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.5&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=52&price=2.6E%203&review=8&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A131714053%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A131714053_NP%253Bprice%253A2600%253Bclient%253Adesktop%253Bsupplier_id%253A900156174744%253Bbiz_source%253Ah5_unknow%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A131714053%253Bsku_id%253A1039078092%253Bshop_id%253A78360%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Jiabao Jb-212 Led Charger For Aa And Aaa With 4Pcs Rechargeable Battery",
+        "nid": "126315637",
+        "itemId": "126315637",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/dde218c7ecb4d9b2e8804674e8eb199d.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 799",
+        "ratingScore": "4.666666666666667",
+        "review": "6",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Bazaar Trending",
+        "sellerId": "900156093430",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "126315637_NP-1034231269",
+        "skuId": "1034231269",
+        "sku": "126315637_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "799",
+        "inStock": true,
+        "originalPrice": "1000",
+        "clickTrace": "query:camera;nid:126315637;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:126315637_NP;price:799;client:desktop;supplier_id:900156093430;biz_source:h5_unknow;slot:29;utlog_bucket_id:470687;asc_category_id:257;item_id:126315637;sku_id:1034231269;shop_id:77892;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "20 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "126315637_NP-1034231269"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fdde218c7ecb4d9b2e8804674e8eb199d.jpg&src=srp_findsimilar&item_id=126315637&sku_id=1034231269&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=799.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/jiabao-jb-212-led-charger-for-aa-and-aaa-with-4pcs-rechargeable-battery-i126315637.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034231269%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A79900%3BdisplayPrice%3A79900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.666666666666667&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=20&price=799&review=6&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A126315637%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A126315637_NP%253Bprice%253A799%253Bclient%253Adesktop%253Bsupplier_id%253A900156093430%253Bbiz_source%253Ah5_unknow%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A126315637%253Bsku_id%253A1034231269%253Bshop_id%253A77892%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop AA 1.2V 2700 mah Rechargeable Battery - 2pcs",
+        "nid": "128211305",
+        "itemId": "128211305",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/4601356c1026ce4358a847cd2bdd9d99.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 445",
+        "ratingScore": "",
+        "review": "",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Zacatron",
+        "sellerId": "1010140",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128211305_NP-1035338166",
+        "skuId": "1035338166",
+        "sku": "128211305_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "445",
+        "inStock": true,
+        "originalPrice": "1000",
+        "clickTrace": "query:camera;nid:128211305;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:128211305_NP;price:445;client:desktop;supplier_id:1010140;biz_source:h5_unknow;slot:30;utlog_bucket_id:470687;asc_category_id:257;item_id:128211305;sku_id:1035338166;shop_id:19946;templateInfo:1103_L#-1_A3_C#",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128211305_NP-1035338166"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F4601356c1026ce4358a847cd2bdd9d99.jpg&src=srp_findsimilar&item_id=128211305&sku_id=1035338166&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=445.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aa-12v-2700-mah-rechargeable-battery-2pcs-i128211305.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1035338166%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A44500%3BdisplayPrice%3A44500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=3&price=445&review=&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A128211305%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A128211305_NP%253Bprice%253A445%253Bclient%253Adesktop%253Bsupplier_id%253A1010140%253Bbiz_source%253Ah5_unknow%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A128211305%253Bsku_id%253A1035338166%253Bshop_id%253A19946%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop Aaa 1.2V 1350 Mah Rechargeable Battery - 2Pcs",
+        "nid": "100382371",
+        "itemId": "100382371",
+        "icons": [],
+        "image": "https://static-01.daraz.com.np/p/578c71768712c1f16ed0c9a45c8190e7.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 319",
+        "ratingScore": "3.7777777777777777",
+        "review": "3",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Mr.Deals Nepal",
+        "sellerId": "1000925",
+        "brandName": "GOOP",
+        "brandId": "39540",
+        "cheapest_sku": "100382371_NP-1020656439",
+        "skuId": "1020656439",
+        "sku": "100382371_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "319",
+        "inStock": true,
+        "originalPrice": "550",
+        "clickTrace": "query:camera;nid:100382371;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:100382371_NP;price:319;client:desktop;supplier_id:1000925;biz_source:h5_unknow;slot:31;utlog_bucket_id:470687;asc_category_id:257;item_id:100382371;sku_id:1020656439;shop_id:10865;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "75 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "100382371_NP-1020656439"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F578c71768712c1f16ed0c9a45c8190e7.jpg&src=srp_findsimilar&item_id=100382371&sku_id=1020656439&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=319.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aaa-12v-1350-mah-rechargeable-battery-2pcs-i100382371.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1020656439%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A31900%3BdisplayPrice%3A31900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=3.7777777777777777&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=75&price=319&review=3&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A100382371%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A100382371_NP%253Bprice%253A319%253Bclient%253Adesktop%253Bsupplier_id%253A1000925%253Bbiz_source%253Ah5_unknow%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A100382371%253Bsku_id%253A1020656439%253Bshop_id%253A10865%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Pack Of 5 Selfie Remote Remote Shutter Battery 3V Lithium Cell (Cr2032)",
+        "nid": "127813083",
+        "itemId": "127813083",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/33bbf6b536030cb7392fcef46509d92e.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 149",
+        "ratingScore": "4.888888888888889",
+        "review": "9",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Ganapati Store",
+        "sellerId": "900152799256",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "127813083_NP-1034768654",
+        "skuId": "1034768654",
+        "sku": "127813083_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "149",
+        "inStock": true,
+        "originalPrice": "299",
+        "clickTrace": "query:camera;nid:127813083;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:127813083_NP;price:149;client:desktop;supplier_id:900152799256;biz_source:h5_unknow;slot:32;utlog_bucket_id:470687;asc_category_id:257;item_id:127813083;sku_id:1034768654;shop_id:53908;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "46 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "127813083_NP-1034768654"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F33bbf6b536030cb7392fcef46509d92e.jpg&src=srp_findsimilar&item_id=127813083&sku_id=1034768654&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=149.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/pack-of-5-selfie-remote-remote-shutter-battery-3v-lithium-cell-cr2032-i127813083.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1034768654%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A14900%3BdisplayPrice%3A14900%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.888888888888889&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=46&price=149&review=9&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A127813083%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A127813083_NP%253Bprice%253A149%253Bclient%253Adesktop%253Bsupplier_id%253A900152799256%253Bbiz_source%253Ah5_unknow%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A127813083%253Bsku_id%253A1034768654%253Bshop_id%253A53908%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Dslr Camera Battery For Nikon D5600, D5500, D5300, D5200, D5100",
+        "nid": "128475909",
+        "itemId": "128475909",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 95",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/79fd8ee5afb32077afed6703ea7fab59.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 3,168",
+        "ratingScore": "5.0",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Chapro Store",
+        "sellerId": "900151899004",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "128475909_NP-1035969779",
+        "skuId": "1035969779",
+        "sku": "128475909_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "3168",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:128475909;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:128475909_NP;price:3168;client:desktop;supplier_id:900151899004;biz_source:h5_unknow;slot:33;utlog_bucket_id:470687;asc_category_id:257;item_id:128475909;sku_id:1035969779;shop_id:35019;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "7 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "128475909_NP-1035969779"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F79fd8ee5afb32077afed6703ea7fab59.jpg&src=srp_findsimilar&item_id=128475909&sku_id=1035969779&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3168.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/dslr-camera-battery-for-nikon-d5600-d5500-d5300-d5200-d5100-i128475909.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1035969779%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A316800%3BdisplayPrice%3A316800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=7&price=3168&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A128475909%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A128475909_NP%253Bprice%253A3168%253Bclient%253Adesktop%253Bsupplier_id%253A900151899004%253Bbiz_source%253Ah5_unknow%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A128475909%253Bsku_id%253A1035969779%253Bshop_id%253A35019%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Duracell Ultra Alkaline 9V Battery",
+        "nid": "114702604",
+        "itemId": "114702604",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 4",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/7ea54f785a0c1374971dcea99d5dd6ce.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 418",
+        "ratingScore": "4.5",
+        "review": "2",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "parijat patra patrika bikri bitaran",
+        "sellerId": "900153327004",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "114702604_NP-1031171436",
+        "skuId": "1031171436",
+        "sku": "114702604_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "418",
+        "inStock": true,
+        "originalPrice": "470",
+        "clickTrace": "query:camera;nid:114702604;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:114702604_NP;price:418;client:desktop;supplier_id:900153327004;biz_source:h5_unknow;slot:34;utlog_bucket_id:470687;asc_category_id:257;item_id:114702604;sku_id:1031171436;shop_id:60482;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "13 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "114702604_NP-1031171436"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7ea54f785a0c1374971dcea99d5dd6ce.jpg&src=srp_findsimilar&item_id=114702604&sku_id=1031171436&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=418.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/duracell-ultra-alkaline-9v-battery-i114702604.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031171436%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A41800%3BdisplayPrice%3A41800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.5&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=13&price=418&review=2&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A114702604%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A114702604_NP%253Bprice%253A418%253Bclient%253Adesktop%253Bsupplier_id%253A900153327004%253Bbiz_source%253Ah5_unknow%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A114702604%253Bsku_id%253A1031171436%253Bshop_id%253A60482%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Eken Camera Original Battery",
+        "nid": "117350281",
+        "itemId": "117350281",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/e705731142c4f1525f4677ce78206ba5.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 698",
+        "ratingScore": "4.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Sanduk Accessories",
+        "sellerId": "900152721061",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "117350281_NP-1032152812",
+        "skuId": "1032152812",
+        "sku": "117350281_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "698",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:117350281;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:117350281_NP;price:698;client:desktop;supplier_id:900152721061;biz_source:h5_unknow;slot:35;utlog_bucket_id:470687;asc_category_id:257;item_id:117350281;sku_id:1032152812;shop_id:51152;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "9 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "117350281_NP-1032152812"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe705731142c4f1525f4677ce78206ba5.jpg&src=srp_findsimilar&item_id=117350281&sku_id=1032152812&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=698.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/eken-camera-original-battery-i117350281.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1032152812%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A69800%3BdisplayPrice%3A69800%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=9&price=698&review=1&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A117350281%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A117350281_NP%253Bprice%253A698%253Bclient%253Adesktop%253Bsupplier_id%253A900152721061%253Bbiz_source%253Ah5_unknow%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A117350281%253Bsku_id%253A1032152812%253Bshop_id%253A51152%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "TELESIN GoPro Rechargeable Batteries for Gopro Hero 9 / 10 Black",
+        "nid": "106791851",
+        "itemId": "106791851",
+        "icons": [
+          {
+            "domClass": "150564",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/b2db5aef151010c35f95af138882c57a.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,500",
+        "ratingScore": "3.75",
+        "review": "12",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Dream Market And Accessories",
+        "sellerId": "1008018",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "106791851_NP-1028299167",
+        "skuId": "1028299167",
+        "sku": "106791851_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2500",
+        "inStock": true,
+        "originalPrice": "2700",
+        "clickTrace": "query:camera;nid:106791851;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:106791851_NP;price:2500;client:desktop;supplier_id:1008018;biz_source:h5_unknow;slot:36;utlog_bucket_id:470687;asc_category_id:257;item_id:106791851;sku_id:1028299167;shop_id:17897;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "41 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "106791851_NP-1028299167"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fb2db5aef151010c35f95af138882c57a.jpg&src=srp_findsimilar&item_id=106791851&sku_id=1028299167&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2500.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/telesin-gopro-rechargeable-batteries-for-gopro-hero-9-10-black-i106791851.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1028299167%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A250000%3BdisplayPrice%3A250000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=3.75&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=41&price=2.5E%203&review=12&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A106791851%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A106791851_NP%253Bprice%253A2500%253Bclient%253Adesktop%253Bsupplier_id%253A1008018%253Bbiz_source%253Ah5_unknow%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A106791851%253Bsku_id%253A1028299167%253Bshop_id%253A17897%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Goop AA Sized 2700mAh Ni-CD 1.2V Rechargeable Battery 4 Pcs (2 Pair), Up to 1100 Cycles",
+        "nid": "111291012",
+        "itemId": "111291012",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/46fed4096787d1215fe053ce8fcfdda6.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 950",
+        "ratingScore": "5.0",
+        "review": "6",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Kinmel Wholesale",
+        "sellerId": "900151548009",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "111291012_NP-1030148908",
+        "skuId": "1030148908",
+        "sku": "111291012_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "950",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:111291012;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:111291012_NP;price:950;client:desktop;supplier_id:900151548009;biz_source:h5_unknow;slot:37;utlog_bucket_id:470687;asc_category_id:257;item_id:111291012;sku_id:1030148908;shop_id:29564;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "61 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "111291012_NP-1030148908"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F46fed4096787d1215fe053ce8fcfdda6.jpg&src=srp_findsimilar&item_id=111291012&sku_id=1030148908&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=950.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/goop-aa-sized-2700mah-ni-cd-12v-rechargeable-battery-4-pcs-2-pair-up-to-1100-cycles-i111291012.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1030148908%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A95000%3BdisplayPrice%3A95000%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=61&price=9.5E%202&review=6&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A111291012%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A111291012_NP%253Bprice%253A950%253Bclient%253Adesktop%253Bsupplier_id%253A900151548009%253Bbiz_source%253Ah5_unknow%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A111291012%253Bsku_id%253A1030148908%253Bshop_id%253A29564%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Maxcell Alkaline 1.5V AA battery",
+        "nid": "114705311",
+        "itemId": "114705311",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 1",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/45e0f286b71e9d88083db3455ca01a4f.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 110",
+        "ratingScore": "4.8",
+        "review": "5",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "parijat patra patrika bikri bitaran",
+        "sellerId": "900153327004",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "114705311_NP-1031170571",
+        "skuId": "1031170571",
+        "sku": "114705311_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "110",
+        "inStock": true,
+        "clickTrace": "query:camera;nid:114705311;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:114705311_NP;price:110;client:desktop;supplier_id:900153327004;biz_source:h5_unknow;slot:38;utlog_bucket_id:470687;asc_category_id:257;item_id:114705311;sku_id:1031170571;shop_id:60482;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "40 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "114705311_NP-1031170571"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F45e0f286b71e9d88083db3455ca01a4f.jpg&src=srp_findsimilar&item_id=114705311&sku_id=1031170571&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=110.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/maxcell-alkaline-15v-aa-battery-i114705311.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1031170571%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A11000%3BdisplayPrice%3A11000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=4.8&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=40&price=1.1E%202&review=5&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A114705311%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A114705311_NP%253Bprice%253A110%253Bclient%253Adesktop%253Bsupplier_id%253A900153327004%253Bbiz_source%253Ah5_unknow%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A114705311%253Bsku_id%253A1031170571%253Bshop_id%253A60482%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      },
+      {
+        "name": "Cann Lp-E6N 1865Mah Battery for Camera 70D / 80D / 90D / 6D ii / 5D Camera Battery",
+        "nid": "134103557",
+        "itemId": "134103557",
+        "icons": [
+          {
+            "domClass": "150565",
+            "type": "img",
+            "group": "6",
+            "showType": "0"
+          },
+          {
+            "domClass": "150318",
+            "text": "Gems save Rs. 65",
+            "type": "text",
+            "group": "2",
+            "showType": "0"
+          },
+          {
+            "domClass": "175175",
+            "type": "img",
+            "group": "3",
+            "showType": "0"
+          }
+        ],
+        "image": "https://static-01.daraz.com.np/p/204e98ba00f3be816637b9df154255ca.jpg",
+        "isSmartImage": false,
+        "originalPriceShow": "",
+        "priceShow": "Rs. 2,177",
+        "ratingScore": "5.0",
+        "review": "1",
+        "location": "Bagmati Province",
+        "thumbs": [],
+        "sellerName": "Chapro Store",
+        "sellerId": "900151899004",
+        "brandName": "No Brand",
+        "brandId": "39704",
+        "cheapest_sku": "134103557_NP-1056946836",
+        "skuId": "1056946836",
+        "sku": "134103557_NP",
+        "categories": [
+          240,
+          256,
+          257
+        ],
+        "price": "2177",
+        "inStock": true,
+        "originalPrice": "4000",
+        "clickTrace": "query:camera;nid:134103557;src:LazadaMainSrp;rn:4feec9bf71778a914c858d7b627b1bc8;region:np;sku:134103557_NP;price:2177;client:desktop;supplier_id:900151899004;biz_source:h5_unknow;slot:39;utlog_bucket_id:470687;asc_category_id:257;item_id:134103557;sku_id:1056946836;shop_id:35019;templateInfo:1103_L#-1_A3_C#",
+        "itemSoldCntShow": "8 sold",
+        "longImageDisplayable": false,
+        "skus": [
+          {
+            "id": "134103557_NP-1056946836"
+          }
+        ],
+        "promotionId": "",
+        "isSponsored": false,
+        "tItemType": "nt_product",
+        "skuType": "",
+        "adFlag": "0",
+        "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F204e98ba00f3be816637b9df154255ca.jpg&src=srp_findsimilar&item_id=134103557&sku_id=1056946836&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2177.00&spuTriggerItem=0",
+        "gridTitleLine": "2",
+        "isFission": "0",
+        "isBadgeAutoScroll": false,
+        "showCart": false,
+        "showBackIcon": false,
+        "showUnitPrice": false,
+        "itemUrl": "//www.daraz.com.np/products/cann-lp-e6n-1865mah-battery-for-camera-70d-80d-90d-6d-ii-5d-camera-battery-i134103557.html",
+        "querystring": "fs_ab=1&priceCompare=skuId%3A1056946836%3Bsource%3Alazada-search-voucher%3Bsn%3A4feec9bf71778a914c858d7b627b1bc8%3BoriginPrice%3A217700%3BdisplayPrice%3A217700%3BsinglePromotionId%3A50000018794008%3BsingleToolCode%3ApromPrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758780199393&c=&ratingscore=5.0&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=8&price=2177&review=1&location=Bagmati%20Province&stock=1&lang=en&request_id=4feec9bf71778a914c858d7b627b1bc8&clickTrackInfo=query%253Acamera%253Bnid%253A134103557%253Bsrc%253ALazadaMainSrp%253Brn%253A4feec9bf71778a914c858d7b627b1bc8%253Bregion%253Anp%253Bsku%253A134103557_NP%253Bprice%253A2177%253Bclient%253Adesktop%253Bsupplier_id%253A900151899004%253Bbiz_source%253Ah5_unknow%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A257%253Bitem_id%253A134103557%253Bsku_id%253A1056946836%253Bshop_id%253A35019%253BtemplateInfo%253A1103_L%2523-1_A3_C%2523"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "url": "https://www.daraz.com.np",
+        "title": "Home"
+      },
+      {
+        "url": "/camera-accessories/",
+        "title": "Camera Accessories"
+      },
+      {
+        "url": "/camera/",
+        "title": "Cameras"
+      },
+      {
+        "url": "/camera-batteries/",
+        "title": "Batteries"
+      },
+      {
+        "title": "Search Results"
+      }
+    ],
+    "sortBar": {
+      "tItemType": "nt_sortbar",
+      "filter": "Filter",
+      "style": "wf",
+      "sortItems": [
+        {
+          "name": "Popularity",
+          "tip": "Best Match",
+          "isActive": "true",
+          "value": "popularity",
+          "key": "sort",
+          "tabName": ""
+        },
+        {
+          "name": "Price-ASC",
+          "tip": "Price low to high",
+          "value": "priceasc",
+          "key": "sort",
+          "tabName": ""
+        },
+        {
+          "name": "Price-DESC",
+          "tip": "Price high to low",
+          "value": "pricedesc",
+          "key": "sort",
+          "tabName": ""
+        }
+      ],
+      "hiddenLayoutBtn": false,
+      "showFilterBtn": true,
+      "hasFilter": false
+    },
+    "resultTips": {
+      "tItemType": "nt_resulttips",
+      "tips": "391 items found for \"{$0}\"",
+      "keywords": [
+        {
+          "text": "camera"
+        }
+      ]
+    },
+    "linksInfo": [],
+    "LazadaDecoration": {
+      "footer": "%3Cbr%3E%3Ca%20href%3D%22%2Fcamera-batteries%2Fgoop%2F%22%20%3EGoop%20Camera%20Batteries%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcamera-batteries%2Fother_1%2F%22%20%3EOther%201%20Camera%20Batteries%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcamera-batteries%2Fsjcam%2F%22%20%3ESjcam%20Camera%20Batteries%3C%2Fa%3E"
+    }
+  },
+  "mainInfo": {
+    "errorMsg": "",
+    "bizCode": 0,
+    "totalResults": "391",
+    "pageSize": "40",
+    "page": "1",
+    "hiddenLayoutBtn": false,
+    "layoutInfo": {
+      "listHeader": [
+        "didYouMean",
+        "campaignBanner",
+        "categoryBar",
+        "brandBar",
+        "superStore",
+        "banner",
+        "resultTips",
+        "navCategory",
+        "hotDeal",
+        "emptyResult",
+        "recQuery",
+        "emptyResultBannerTips",
+        "limitedResult",
+        "recommendTitle"
+      ],
+      "stickyHeader": [
+        "reminderBanner"
+      ],
+      "sceneHeader": [],
+      "halfStickyHeader": [
+        "sortBar",
+        "preposeFilter"
+      ],
+      "bottomHalfStickyHeader": []
+    },
+    "pageType": "searchList",
+    "gridTitleLine": "2",
+    "trackParams": {
+      "categoryAsc": "257",
+      "category": "257"
+    },
+    "userId": "",
+    "cate_id": "5880,5883,9593,10002902",
+    "hyperspaceInfo": "",
+    "currency": "Rs. ",
+    "currencyOnRight": "false",
+    "currencySpace": "false",
+    "isShowFeedbackForm": "false",
+    "showThumbs": "false",
+    "allProductURL": "/all-products/",
+    "addToCartURL": "//cart.daraz.com.np/cart/api/add",
+    "cluster": "fiber2_os30",
+    "column": 2,
+    "bucketId": "v0",
+    "auctionType": 1,
+    "noMorePages": false,
+    "srpName": "LazadaMainSrp",
+    "params": "{\"src\":\"h5_unknow\"}",
+    "searchScenario": "keyword",
+    "hiddenShopChangeBtn": true,
+    "selectedFilters": {
+      "category": "257"
+    },
+    "expParams": {
+      "isBadgeAutoScroll": "0",
+      "filterLazyLoad": "0",
+      "enableShortStyle": "0",
+      "enableFeedbackAssistant": "1",
+      "disableScreenSimple": "1",
+      "enableCompactLineHeight": "1",
+      "disableFspImagePreload": "0"
+    },
+    "filterLazyLoad": false,
+    "RN": "4feec9bf71778a914c858d7b627b1bc8",
+    "style": "wf",
+    "lang": "en",
+    "venture": "NP",
+    "themes": [
+      {
+        "font-size": "11",
+        "labelMarginLeft": "0",
+        "bgColor": "#c27a9f",
+        "color": "#f5f3f3",
+        "key": "150318",
+        "startColor": "#c27a9f"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/7d68debd5a43e7f0b5893ad6ff5cac241745467448584.png",
+        "width": "82",
+        "labelMarginLeft": "0",
+        "key": "162933",
+        "height": "45"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/4e9deeb4c63b87e32e6079d1c6d189801717402042809.png",
+        "width": "145",
+        "labelMarginLeft": "0",
+        "key": "116088",
+        "height": "30"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/bf424e522a0d117761cca560b15529421718354903890.png",
+        "width": "288",
+        "labelMarginLeft": "0",
+        "key": "116121",
+        "height": "36"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/7043a26ec93e68acc9da1a9f19c28f1d1730280969660.png",
+        "width": "270",
+        "labelMarginLeft": "0",
+        "key": "150565",
+        "height": "30"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/8ee0dbaab71c282027449ca316976ba71736489111251.png",
+        "width": "141",
+        "labelMarginLeft": "0",
+        "key": "115841",
+        "height": "39"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/30fc943f49d7a38a95e79dc912edd7091730281067209.png",
+        "width": "175",
+        "labelMarginLeft": "0",
+        "key": "150564",
+        "height": "30"
+      },
+      {
+        "img": "https://img.lazcdn.com/us/lzd-onepiece/8199af120f8d2b28c22398a97eb0a5f01758108181160.png",
+        "width": "233",
+        "labelMarginLeft": "0",
+        "key": "175175",
+        "height": "87"
+      }
+    ],
+    "q": "camera",
+    "rt": {
+      "all": 145
+    },
+    "serverResponseTime": 1758780199,
+    "reqParams": "{\"src\":\"h5_unknow\",\"refer\":\"\",\"scenario\":\"keyword-dynamic\",\"ab_test\":\"BASE:0\"}",
+    "pageTitle": "Camera Batteries In Nepal At Best Price - Daraz.com.np"
+  },
+  "seoInfo": {
+    "canonical_tag": "",
+    "category_brand": "257_0_0_0",
+    "description": "Buy camera batteries online at Daraz Nepal. The biggest online shopping store offers reasonable best camera batteries price in Kathmandu, Biratnagar and across Nepal. ✓Cash on delivery.",
+    "h1": "",
+    "hreflang_data": "[{\"href\":\"https://www.daraz.pk/camera-batteries/\",\"lang\":\"en-pk\"},{\"href\":\"https://www.daraz.com.bd/camera-batteries/\",\"lang\":\"en-bd\"},{\"href\":\"https://www.daraz.lk/camera-batteries/\",\"lang\":\"en-lk\"},{\"href\":\"https://www.daraz.com.np/camera-batteries/\",\"lang\":\"en-np\"},{\"href\":\"https://www.shop.com.mm/camera-batteries/\",\"lang\":\"en-mm\"},{\"href\":\"https://www.lazada.sg/shop-camera-batteries/\",\"lang\":\"en-sg\"},{\"href\":\"https://www.lazada.com.my/shop-camera-batteries/\",\"lang\":\"en-my\"},{\"href\":\"https://www.lazada.co.th/shop-camera-batteries/\",\"lang\":\"th-th\"},{\"href\":\"https://www.lazada.co.id/beli-baterai/\",\"lang\":\"id-id\"},{\"href\":\"https://www.lazada.vn/pin-may-anh/\",\"lang\":\"vi-vn\"},{\"href\":\"https://www.lazada.com.ph/shop-camera-batteries/\",\"lang\":\"en-ph\"}]",
+    "meta_index": "index, follow",
+    "title": "Camera Batteries In Nepal At Best Price - Daraz.com.np",
+    "pageTitle": "Camera Batteries In Nepal At Best Price - Daraz.com.np",
+    "robotsContent": "index,follow",
+    "canonicalHref": "/camera-batteries/",
+    "androidDeepLink": "android-app://com.lazada.android/lazada/np/page?url_key=%2Fcamera-batteries%2F%3Fq%3Dcamera&utm_campaign=%2Fcamera-batteries%2F%3Fq%3Dcamera&utm_medium=organic&utm_source=google_app_indexing&utm_from=search",
+    "nextHref": "/camera-batteries/?page=2&q=camera",
+    "internalLink": [],
+    "itemListSchema": {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Best Selling camera Products",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Product",
+            "name": "Goop AA Sized 1 Pair 800mAh 1.2V Rechargeable Battery for Camera, Camera Mic, Wall Clock, Flashlights",
+            "image": "https://static-01.daraz.com.np/p/9d997644026210aa9a3d858c2cafa215.jpg",
+            "url": "//www.daraz.com.np/products/goop-aa-sized-1-pair-800mah-12v-rechargeable-battery-for-camera-camera-mic-wall-clock-flashlights-i128251458.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "ratingCount": 13
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Product",
+            "name": "Battery for Canon 1100D 1200D 1300D 4000D 2000D LP E10 Battery for Canon Camera",
+            "image": "https://static-01.daraz.com.np/p/2397998a817fbd5a80d2d002779594ea.jpg",
+            "url": "//www.daraz.com.np/products/battery-for-canon-1100d-1200d-1300d-4000d-2000d-lp-e10-battery-for-canon-camera-i121493470.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "ratingCount": 31
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Product",
+            "name": "Battery for Canon 550D 600D 650D 700D Canon Camera LP-E8",
+            "image": "https://np-live-21.slatic.net/kf/Sbcc0dc576aa340e5b1b77a3ebe37d91fH.jpg",
+            "url": "//www.daraz.com.np/products/battery-for-canon-550d-600d-650d-700d-canon-camera-lp-e8-i121259122.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "ratingCount": 30
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Product",
+            "name": "Goop Aaa 1.2V 1350 Mah Rechargeable Battery - 2Pcs",
+            "image": "https://static-01.daraz.com.np/p/cd606cc10b5792177f307c7495fe8735.jpg",
+            "url": "//www.daraz.com.np/products/goop-aaa-12v-1350-mah-rechargeable-battery-2pcs-i106123519.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "ratingCount": 73
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Product",
+            "name": "Canon Lp E 17 Battery and Charger Combo for Canon 200D 750D 800D 250D 200D Mark II",
+            "image": "https://static-01.daraz.com.np/p/4d878554ed135d95c87ba39f3b5e5bb0.jpg",
+            "url": "//www.daraz.com.np/products/canon-lp-e-17-battery-and-charger-combo-for-canon-200d-750d-800d-250d-200d-mark-ii-i128609201.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "ratingCount": 14
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Product",
+            "name": "Maxell Alkaline AA  Card of 8p",
+            "image": "https://np-live-21.slatic.net/kf/S2be0267d2757432595469065885d6695r.jpg",
+            "url": "//www.daraz.com.np/products/maxell-alkaline-aa-card-of-8p-i434667266.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "ratingCount": 1
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Product",
+            "name": "Nikon Dslr Camera Battery for Nikon D3200 D3300 D3400 D3500 D5100 D5200 D5300 D5500 D5600",
+            "image": "https://np-live-21.slatic.net/kf/S21a733ee37df47ebbcc6b047b2c985a9P.jpg",
+            "url": "//www.daraz.com.np/products/nikon-dslr-camera-battery-for-nikon-d3200-d3300-d3400-d3500-d5100-d5200-d5300-d5500-d5600-i134247363.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "ratingCount": 2
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Product",
+            "name": "Original Replacement Battery For GoPro Hero 10 9 Sport Camera Battery",
+            "image": "https://static-01.daraz.com.np/p/fac9e8dedf4913da739aa7d8b2bd211d.jpg",
+            "url": "//www.daraz.com.np/products/original-replacement-battery-for-gopro-hero-10-9-sport-camera-battery-i121085253.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "ratingCount": 3
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Product",
+            "name": "Goop 1.2V AA Rechargeable Battery - Double Battery",
+            "image": "https://static-01.daraz.com.np/p/c36366269fc22c0d2d5e01127760fd43.jpg",
+            "url": "//www.daraz.com.np/products/goop-12v-aa-rechargeable-battery-double-battery-i124687346.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "ratingCount": 56
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Product",
+            "name": "Maxell Alkaline AAA Card of 2p",
+            "image": "https://np-live-21.slatic.net/kf/Sa8d5f030b25d46539795847c6ffbb141Q.jpg",
+            "url": "//www.daraz.com.np/products/maxell-alkaline-aaa-card-of-2p-i460345338.html",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "ratingCount": 1
+            }
+          }
+        }
+      ]
+    },
+    "breadcrumbSchema": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "item": {
+            "@id": "https://www.daraz.com.np",
+            "name": "Home"
+          },
+          "@type": "ListItem",
+          "position": 1
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Camera Accessories"
+          },
+          "@type": "ListItem",
+          "position": 2
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Cameras"
+          },
+          "@type": "ListItem",
+          "position": 3
+        },
+        {
+          "item": {
+            "@id": "https://www.daraz.com.npurl",
+            "name": "Batteries"
+          },
+          "@type": "ListItem",
+          "position": 4
+        }
+      ]
+    },
+    "breadcrumbData": [
+      {
+        "categoryName": "Home",
+        "categoryLink": "https://www.daraz.com.np"
+      },
+      {
+        "categoryName": "Camera Accessories",
+        "categoryLink": "/camera-accessories/"
+      },
+      {
+        "categoryName": "Cameras",
+        "categoryLink": "/camera/"
+      },
+      {
+        "categoryName": "Batteries",
+        "categoryLink": "/camera-batteries/"
+      },
+      {
+        "categoryName": "Search Results"
+      }
+    ],
+    "productSchema": {
+      "@type": "Product",
+      "@context": "https://schema.org",
+      "name": "Goop Aaa 1.2V 1350 Mah Rechargeable Battery - 2Pcs",
+      "image": "https://static-01.daraz.com.np/p/cd606cc10b5792177f307c7495fe8735.jpg",
+      "sku": "106123519_NP",
+      "mpn": "1027970802",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": 73
+      },
+      "brand": {
+        "@type": "Organization",
+        "name": "No Brand"
+      }
+    }
+  }
+}
